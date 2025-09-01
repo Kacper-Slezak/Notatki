@@ -1,4 +1,4 @@
-#### Skryptowanie:
+### **Skryptowanie:**
 
 - [ ] **Bash**:
     
@@ -10,18 +10,18 @@
     
     - [ ] Podstawy: Tworzenie skryptów do automatyzacji.
         
-    - [ ] Zaawansowane: Używanie bibliotek, obsługa API.
+    - [ ] Zaawansowane: Używanie bibliotek (np. `requests`, `boto3`), obsługa API.
         
 - [ ] **Go**:
     
     - [ ] Podstawy: Zrozumienie składni i kompilacja.
         
-    - [ ] Zaawansowane: Proste programy, concurrency.
+    - [ ] Zaawansowane: Proste programy, współbieżność (concurrency).
         
 
 ---
 
-#### System kontroli wersji:
+### **System kontroli wersji:**
 
 - [ ] **Git**:
     
@@ -29,22 +29,16 @@
         
     - [ ] Zaawansowane: `rebase`, `cherry-pick`, rozwiązywanie konfliktów.
         
-- [ ] **GitHub**:
+- [ ] **Platformy (GitHub/GitLab)**:
     
-    - [ ] Podstawy: Tworzenie pull requestów, obsługa `issues`.
+    - [ ] Podstawy: Tworzenie pull/merge requestów, obsługa `issues`.
         
-    - [ ] Zaawansowane: Konfiguracja projektów, zarządzanie repozytoriami.
-        
-- [ ] **GitLab**:
-    
-    - [ ] Podstawy: Tworzenie merge requestów, obsługa `issues`.
-        
-    - [ ] Zaawansowane: Zarządzanie grupami, repozytoriami.
+    - [ ] Zaawansowane: Konfiguracja repozytoriów, akcje/pipeline'y.
         
 
 ---
 
-#### CI/CD:
+### **CI/CD:**
 
 - [ ] **Jenkins**:
     
@@ -60,139 +54,152 @@
         
 - [ ] **GitHub Actions**:
     
-    - [ ] Podstawy: Tworzenie prostych plików `.yml`.
+    - [ ] Podstawy: Tworzenie prostych plików `.yml` w `.github/workflows`.
         
     - [ ] Zaawansowane: Warunki, macierze (`matrices`), używanie sekretów.
         
 
 ---
 
-#### Linux:
+### **Linux:**
 
-- [ ] **Linux**:
+- [ ] **Podstawy systemu**:
     
-    - [ ] Podstawy: Znajomość podstawowych komend (`ls`, `cd`, `grep`).
+    - [x] Podstawy: Znajomość komend (`ls`, `cd`, `grep`, `find`, `awk`, `sed`).
         
-    - [ ] Zaawansowane: Zarządzanie uprawnieniami, procesami (`ps`, `top`).
+    - [ ] Zaawansowane: Zarządzanie uprawnieniami, procesami (`ps`, `top`, `kill`).
         
 - [ ] **Systemd**:
     
     - [ ] Podstawy: Włączanie, wyłączanie, sprawdzanie statusu usług.
         
-    - [ ] Zaawansowane: Tworzenie własnych jednostek usługi.
+    - [ ] Zaawansowane: Tworzenie własnych jednostek usługi (`.service` files).
         
 - [ ] **Sieci w Linuksie**:
     
-    - [ ] Podstawy: `ping`, `curl`, `netstat`.
+    - [ ] Podstawy: `ping`, `curl`, `netstat`, `ss`, `ip addr`.
         
-    - [ ] Zaawansowane: Konfiguracja interfejsów, `iptables`.
+    - [ ] Zaawansowane: Konfiguracja interfejsów, podstawy `iptables`/`nftables`.
         
 
 ---
 
-#### Konteneryzacja:
+### **Konteneryzacja i Wirtualizacja:**
 
 - [ ] **Docker**:
     
-    - [ ] Podstawy: Budowanie obrazów, uruchamianie kontenerów.
+    - [x] Podstawy: Budowanie obrazów (`Dockerfile`), uruchamianie kontenerów.
         
-    - [ ] Zaawansowane: Sieci (`networks`), wolumeny (`volumes`), zarządzanie obrazami.
-        
-- [ ] **Kubernetes**:
-    
-    - [ ] Podstawy: Pojęcia: `Pod`, `Deployment`, `Service`.
-        
-    - [ ] Zaawansowane: Używanie `kubectl` (odczyt logów, skalowanie), `Helm`.
+    - [ ] Zaawansowane: Sieci (`networks`), wolumeny (`volumes`), optymalizacja obrazów.
         
 - [ ] **Docker Compose**:
     
-    - [ ] Podstawy: Używanie plików `docker-compose.yml`.
+    - [ ] Podstawy: Używanie plików `docker-compose.yml` do uruchamiania wielokontenerowych aplikacji.
         
     - [ ] Zaawansowane: Konfiguracja sieci, zmiennych środowiskowych.
         
-- [ ] **Ansible**:
+- [ ] **Kubernetes (K8s)**:
     
-    - [ ] Podstawy: Pisanie prostych playbooków.
+    - [ ] Podstawy: Zrozumienie architektury (`Pod`, `Deployment`, `Service`, `Namespace`).
         
-    - [ ] Zaawansowane: Role, zmienne, szablony.
+    - [ ] Zaawansowane: Używanie `kubectl` (debugowanie, logi, skalowanie), podstawy `Helm`.
         
 
 ---
 
-#### Monitoring i logowanie:
+### **Infrastructure as Code (IaC):**
 
-- [ ] **Grafana**:
+- [ ] **Ansible**:
     
-    - [ ] Podstawy: Tworzenie prostych dashboardów.
+    - [ ] Podstawy: Pisanie prostych playbooków, zrozumienie `inventory`.
         
-    - [ ] Zaawansowane: Używanie paneli, źródeł danych.
+    - [ ] Zaawansowane: Role, zmienne, szablony (`templates`).
         
-- [ ] **Prometheus**:
+- [ ] **Terraform**:
     
-    - [ ] Podstawy: Zbieranie metryk, zapytania w PromQL.
+    - [ ] Podstawy: Pisanie prostych plików `.tf`, `init`, `plan`, `apply`.
         
-    - [ ] Zaawansowane: Konfiguracja celów (`targets`), alerty.
+    - [ ] Zaawansowane: Zarządzanie stanem (`state`), moduły, zmienne.
+        
+
+---
+
+### **Monitoring i Logowanie:**
+
+- [ ] **Prometheus & Grafana**:
+    
+    - [ ] Podstawy: Zbieranie metryk (Prometheus), tworzenie prostych dashboardów (Grafana).
+        
+    - [ ] Zaawansowane: Pisanie zapytań PromQL, konfiguracja alertów (`Alertmanager`).
         
 - [ ] **Logowanie**:
     
-    - [ ] Podstawy: Przeglądanie logów w systemie (`journalctl`).
+    - [ ] Podstawy: Przeglądanie logów w systemie (`journalctl`, `/var/log`).
         
-    - [ ] Zaawansowane: Scentralizowane logowanie (np. ELK Stack, Loki).
-        
-
----
-
-#### Serwery:
-
-- [ ] **Nginx**:
-    
-    - [ ] Podstawy: Konfiguracja jako reverse proxy.
-        
-    - [ ] Zaawansowane: SSL, zaawansowane reguły routingu.
-        
-- [ ] **Apache**:
-    
-    - [ ] Podstawy: Serwowanie stron statycznych.
-        
-    - [ ] Zaawansowane: Wirtualne hosty, moduły.
+    - [ ] Zaawansowane: Koncepcja scentralizowanego logowania (np. ELK Stack, Loki).
         
 
 ---
 
-#### Chmura:
+### **Chmura (wybierz jedną jako główną):**
 
-- [ ] **AWS**:
+- [ ] **AWS / Azure / GCP**:
     
-    - [ ] Podstawy: `EC2` (wirtualne maszyny), S3 (przechowywanie danych).
+    - [ ] Podstawy: Kluczowe usługi (Maszyny wirtualne - `EC2`/`VM`, Pamięć obiektowa - `S3`/`Blob Storage`).
         
-    - [ ] Zaawansowane: `RDS` (bazy danych), `IAM` (zarządzanie uprawnieniami).
-        
-- [ ] **Azure**:
-    
-    - [ ] Podstawy: Tworzenie maszyn wirtualnych, zarządzanie zasobami.
-        
-    - [ ] Zaawansowane: `Azure App Service`, bazy danych.
-        
-- [ ] **GCP**:
-    
-    - [ ] Podstawy: Tworzenie instancji `Compute Engine`, `Cloud Storage`.
-        
-    - [ ] Zaawansowane: `Kubernetes Engine`, zarządzanie usługami.
+    - [ ] Zaawansowane: Zarządzanie tożsamością (`IAM`), usługi bazodanowe (`RDS`/`Azure SQL`), podstawy sieci (`VPC`/`VNet`).
         
 
 ---
 
-#### Brakujące kluczowe umiejętności:
+### **Bazy Danych (NOWA SEKCJA):**
 
-- [ ] **Infrastructure as Code (IaC)**:
+- [ ] **Relacyjne (SQL)**:
     
-    - [ ] **Terraform**: Pisanie prostych plików `.tf`.
+    - [ ] Podstawy: Podstawowe zapytania (`SELECT`, `INSERT`, `UPDATE`, `WHERE`).
         
-    - [ ] **Terraform**: Stany, moduły, zmienne.
+    - [ ] Zaawansowane: Rozumienie `JOIN`, kluczy głównych i obcych.
         
-- [ ] **Bezpieczeństwo**:
+- [ ] **Nierelacyjne (NoSQL)**:
     
-    - [ ] Podstawy: Zrozumienie pojęć: szyfrowanie, firewalle.
+    - [ ] Podstawy: Zrozumienie, kiedy używać NoSQL (np. Redis jako cache, MongoDB dla dokumentów).
         
-    - [ ] Zaawansowane: Konfiguracja SSL, best practices dla kontenerów.
+
+---
+
+### **Metodologie Pracy (NOWA SEKCJA):**
+
+- [ ] **Agile/Scrum**:
+    
+    - [ ] Podstawy: Zrozumienie idei sprintów, daily, retro.
         
+    - [ ] Zaawansowane: Wiedza o rolach (Product Owner, Scrum Master), artefaktach (Backlog).
+        
+- [ ] **Narzędzia**:
+    
+    - [ ] **Jira / Confluence**: Tworzenie i edycja zadań, komentowanie, poruszanie się po tablicy Kanban/Scrum.
+        
+
+---
+
+### **Umiejętności Miękkie i Rekrutacja (NOWA SEKCJA):**
+
+- [ ] **Angielski**:
+    
+    - [ ] Podstawy: Czytanie dokumentacji technicznej ze zrozumieniem.
+        
+    - [ ] Zaawansowane: Swobodna komunikacja (pisemna i ustna).
+        
+- [ ] **Rozwiązywanie Problemów**:
+    
+    - [ ] Podstawy: Umiejętność korzystania z Google i Stack Overflow.
+        
+    - [ ] Zaawansowane: Systematyczne debugowanie problemów.
+        
+- [ ] **Portfolio i CV**:
+    
+    - [ ] **GitHub**: Posiadanie publicznego repozytorium z 2-3 własnymi, prostymi projektami.
+        
+    - [ ] **CV**: Przygotowane, czytelne CV w języku angielskim.
+        
+    - [ ] **LinkedIn**: Uzupełniony i aktywny profil.
