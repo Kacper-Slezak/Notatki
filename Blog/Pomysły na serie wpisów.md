@@ -12,7 +12,7 @@
 ## Finansowy Wzrost:
 1. **Portfel publiczny** - prowadzenie jakiegoś portfela (na przyszłość)
 2. **Finansowy Elementarz** - podstawowe pojęcia, zagadnienia związane z finansami i inwestycjami, podstawy
-3. Studium przypadku - wybieram spółkę i analizuje ja z perspektywy laika np. Apple 
+3. **Studium przypadku** - wybieram spółkę i analizuje ja z perspektywy laika np. Apple 
 ## Poza Stronami:
 1. **Seria o moim EDC** - opis użyteczności każdej z rzeczy i zamienników 
 2. **Projekt Gotowość** - seria o przygotowaniu się na zagrożenia i działanie w czasie zagrożeń
@@ -21,5 +21,5 @@
 ## Połączone:
 1. **Ekonomia w fikcji** - przykłady ekonomii, biznesów w książkach fikcyjnych dogłębna analiza
 2. **Cyfrowa Twierdza Inwestora** - uszczegółowienie Bezpieczeństwa z myślą o inwestorach - klucze, 2FA, rozpoznawanie pishingu 
-3. **EDC w IT** - programy, funkcje ułatwiajacę obsługę komputera takie must have
+3. **EDC w IT** - programy, funkcje ułatwiające obsługę komputera, telefonu takie must have
 4. Duże cele projekty łączące te zagadnienia

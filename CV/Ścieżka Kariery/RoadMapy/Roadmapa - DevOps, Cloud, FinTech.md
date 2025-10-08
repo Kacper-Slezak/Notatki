@@ -20,11 +20,11 @@
 
 ### 2. Skryptowanie (Python & Bash)
 
-- [ ] **Teoria:** Potrafię napisać prosty skrypt w Bashu do automatyzacji zadań (np. backup plików).
+- [x] **Teoria:** Potrafię napisać prosty skrypt w Bashu do automatyzacji zadań (np. backup plików).
     
 - [ ] **Teoria:** Znam kluczowe biblioteki Pythona do automatyzacji (`os`, `subprocess`, `requests`).
     
-- [ ] **Praktyka:** Napisałem i umieściłem na GitHubie co najmniej 2-3 proste skrypty automatyzujące (np. sprawdzanie statusu strony, porządkowanie plików).
+- [x] **Praktyka:** Napisałem i umieściłem na GitHubie co najmniej 2-3 proste skrypty automatyzujące (np. sprawdzanie statusu strony, porządkowanie plików).
     
 
 ### 3. Git i GitHub
@@ -61,15 +61,15 @@
 
 ### 2. Docker
 
-- [ ] **Teoria:** Rozumiem, czym jest obraz (image) i kontener (container).
+- [x] **Teoria:** Rozumiem, czym jest obraz (image) i kontener (container).
     
-- [ ] **Teoria:** Potrafię napisać prosty `Dockerfile` dla aplikacji Python/Java.
+- [x] **Teoria:** Potrafię napisać prosty `Dockerfile` dla aplikacji Python/Java.
     
-- [ ] **Praktyka:** Zbudowałem własny obraz za pomocą `docker build`.
+- [x] **Praktyka:** Zbudowałem własny obraz za pomocą `docker build`.
     
-- [ ] **Praktyka:** Uruchomiłem swoją aplikację w kontenerze za pomocą `docker run`.
+- [x] **Praktyka:** Uruchomiłem swoją aplikację w kontenerze za pomocą `docker run`.
     
-- [ ] **Praktyka:** Użyłem `docker-compose` do uruchomienia aplikacji składającej się z co najmniej dwóch serwisów (np. aplikacja + baza danych).
+- [x] **Praktyka:** Użyłem `docker-compose` do uruchomienia aplikacji składającej się z co najmniej dwóch serwisów (np. aplikacja + baza danych).
     
 
 ### 3. Terraform

@@ -1,0 +1,19 @@
+## Kraków
+- [ ] Google Poland
+- [ ] Capgemini Polska
+- [ ] Motorola Solutions Poland
+- [ ] HSBC
+- [ ] EPAM System Poland
+- [ ] Hitachi Energy 
+- [ ] Schneider Electric Polska
+- [ ] Jacobs
+- [ ] Akamai
+- [ ] Comarch
+- [ ] Sabre Poland
+- [ ] N-iX Poland
+- [ ] Revolut
+- [ ] ABB
+- [ ] Fingoweb
+- [ ] Acceture
+- [ ] Santander
+- [ ] 
