@@ -1501,7 +1501,7 @@ psycopg2-binary==2.9.9
 redis==5.0.1
 
 # Monitoring
-prometheus-client==0.19.0
+	prometheus-client==0.19.0cd
 python-json-logger==2.0.7
 
 # Security
