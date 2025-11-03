@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Projekty/SOTP/SOTP Master Document v3.0 (Flagship Edition).md",
+                "file": "CV/Projekty/Biblioteka predict/Master Document - Projekt ChronoBook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOTP Master Document v3.0 (Flagship Edition)"
+              "title": "Master Document - Projekt ChronoBook"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Nauka/Kubernetes/Kubernetes Podstawy.md",
+                "file": "CV/Projekty/Biblioteka predict/Master Document - Projekt ChronoBook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Podstawy"
+              "title": "Master Document - Projekt ChronoBook"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d41c76059ea02148",
+  "active": "ec04e522ccf4eb42",
   "lastOpenFiles": [
-    "CV/Projekty/Biblioteka predict/Master Document - Projekt ChronoBook.md",
     "CV/Projekty/SOTP/SOTP Master Document v3.0 (Flagship Edition).md",
+    "CV/Projekty/SOTP/SOTP Master Document v3.5.md",
+    "CV/Projekty/Biblioteka predict/Master Document - Projekt ChronoBook.md",
+    "CV/Nauka/Kubernetes/Kubernetes Podstawy.md",
     "CV/Projekty/Biblioteka predict",
     "CV/Projekty/SOTP/Projekt 2.md",
     "CV/Projekty/SOTP/Roadmap.md",
@@ -208,7 +209,6 @@
     "Blog/Pomysły na serie wpisów.md",
     "CV/Projekty",
     "CV/Ścieżka Kariery/RoadMapy/Roadmapa - DevOps, Cloud, FinTech.md",
-    "CV/Nauka/Kubernetes/Kubernetes Podstawy.md",
     "CV/Nauka/Docker/Docker Compose.md",
     "CV/Nauka/Docker/Podstawy komend Docker.md",
     "CV/Nauka/Kubernetes",
