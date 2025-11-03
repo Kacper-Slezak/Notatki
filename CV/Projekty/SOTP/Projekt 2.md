@@ -1,4 +1,4 @@
-#  SOTP - System Observability & Telemetry Platform
+			#  SOTP - System Obser``````vability & Telemetry Platform
 
 ## Kompletny Plan Wykonawczy - Master Document v2.0
 
@@ -8,46 +8,46 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    USER INTERFACE LAYER                      │
+│                    USER INTERFACE LAYER                     │
 │  React/Next.js Frontend + Grafana Dashboards                │
 └────────────────────┬────────────────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────────────────┐
-│                   API GATEWAY LAYER                          │
+│                   API GATEWAY LAYER                         │
 │  Traefik (Load Balancer + SSL) → FastAPI (REST + WebSocket) │
 └────────────────────┬────────────────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────────────────┐
-│                  APPLICATION LAYER                           │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
-│  │   Inventory  │  │  Auth/RBAC   │  │   Alerting   │      │
-│  │   Service    │  │   Service    │  │   Service    │      │
-│  └──────────────┘  └──────────────┘  └──────────────┘      │
+│                  APPLICATION LAYER                          │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐       │
+│  │   Inventory  │  │  Auth/RBAC   │  │   Alerting   │       │
+│  │   Service    │  │   Service    │  │   Service    │       │
+│  └──────────────┘  └──────────────┘  └──────────────┘       │
 └────────────────────┬────────────────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────────────────┐
-│                   CACHE & QUEUE LAYER                        │
+│                   CACHE & QUEUE LAYER                       │
 │  Redis (Cache + Session) + Celery (Task Queue)              │
 └────────────────────┬────────────────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────────────────┐
-│                  COLLECTOR WORKERS                           │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐       │
-│  │   SNMP   │ │   ICMP   │ │   SSH    │ │  Syslog  │       │
-│  │ Collector│ │ Collector│ │ Collector│ │ Collector│       │
-│  └──────────┘ └──────────┘ └──────────┘ └──────────┘       │
+│                  COLLECTOR WORKERS                          │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐        │
+│  │   SNMP   │ │   ICMP   │ │   SSH    │ │  Syslog  │        │
+│  │ Collector│ │ Collector│ │ Collector│ │ Collector│        │
+│  └──────────┘ └──────────┘ └──────────┘ └──────────┘        │
 └────────────────────┬────────────────────────────────────────┘
                      │
 ┌────────────────────▼────────────────────────────────────────┐
-│                   DATA LAYER                                 │
-│  ┌─────────────────┐  ┌─────────────────┐                  │
-│  │  PostgreSQL     │  │  TimescaleDB    │                  │
-│  │  (Inventory)    │  │  (Time-Series)  │                  │
-│  └─────────────────┘  └─────────────────┘                  │
-│  ┌─────────────────┐  ┌─────────────────┐                  │
-│  │  Loki           │  │  Vault          │                  │
-│  │  (Logs)         │  │  (Secrets)      │                  │
-│  └─────────────────┘  └─────────────────┘                  │
+│                   DATA LAYER                                │
+│  ┌─────────────────┐  ┌─────────────────┐                   │
+│  │  PostgreSQL     │  │  TimescaleDB    │                   │
+│  │  (Inventory)    │  │  (Time-Series)  │                   │
+│  └─────────────────┘  └─────────────────┘                   │
+│  ┌─────────────────┐  ┌─────────────────┐                   │
+│  │  Loki           │  │  Vault          │                   │
+│  │  (Logs)         │  │  (Secrets)      │                   │
+│  └─────────────────┘  └─────────────────┘                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -73,6 +73,7 @@ sotp/
 │   │   │   ├── database.py
 │   │   │   └── exceptions.py
 │   │   ├── models/
+│   │   │   ├── base.py
 │   │   │   ├── device.py
 │   │   │   ├── user.py
 │   │   │   ├── audit_log.py
@@ -139,8 +140,7 @@ sotp/
 │   ├── tsconfig.json
 │   └── Dockerfile
 ├── infrastructure/
-│   ├── docker/
-│   │   ├── docker-compose.yml
+	│   ├── docker/
 │   │   ├── docker-compose.dev.yml
 │   │   ├── docker-compose.prod.yml
 │   │   └── init-scripts/
