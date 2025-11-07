@@ -1,8 +1,6 @@
-## SOTP Master Document v4.0 ULTIMATE
-
 System Observability & Telemetry Platform
 
-Wersja: 4.0 Ultimate Edition (zaktualizowany podział ról)
+Wersja: 3.5 Ultimate Edition (zaktualizowany podział ról)
 
 Ostatnia aktualizacja: 2024-11-03
 

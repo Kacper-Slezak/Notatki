@@ -1,4 +1,4 @@
-			#  SOTP - System Obser``````vability & Telemetry Platform
+			#  SOTP - System Observability & Telemetry Platform
 
 ## Kompletny Plan Wykonawczy - Master Document v2.0
 
