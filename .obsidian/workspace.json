@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "82dde54d4460aace",
+        "id": "d359a71dbf996f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "78599024a663d1c1",
+            "id": "342fec9ac387671a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firmy"
+              "title": "Przydatne komendy"
+            }
+          },
+          {
+            "id": "194d658479ad9210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Services"
             }
           }
         ]
@@ -177,51 +191,52 @@
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "scribe:Scribe": false
     }
   },
-  "active": "78599024a663d1c1",
+  "active": "342fec9ac387671a",
   "lastOpenFiles": [
-    "02 Obszary/Ścieżka Kariery/RoadMapy/Checklist.md",
-    "02 Obszary/Oferty Pracy/Firmy.md",
-    "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
-    "Wymagania i Role.md",
+    "03 Baza Wiedzy/Nauka/K8s MOC.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Imperative vs Declarative.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Namespaces.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Services.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ResourceQuota.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/etcd.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Deployment.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
+    "05 Szablony/Szablon Uniwersalny.md",
+    "00 Inbox",
+    "05 Szablony/Szablon Bloga.md",
+    "05 Szablony/Szablon Listy.md",
+    "05 Szablony/Szybka Myśl.md",
+    "05 Szablony/Szbalon Projektu.md",
+    "02 Obszary/Blog/Pomysły na serie wpisów.md",
+    "02 Obszary/Blog/Bez nazwy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Proxy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Master Node.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ReplicaSet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Replications-Controller.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Container runtime engine.md",
+    "02 Obszary/Blog/scribe-2025-12-20-.md",
+    "02 Obszary/Blog/scribe-2025-12-20-.835.md",
+    "04 Archiwum/Zdjęcia/scribe-recording-2025-12-20.804.webm",
+    "04 Archiwum/Zdjęcia/scribe-recording-2025-12-20.webm",
+    "02 Obszary/Blog/Pomysły na wpisy.md",
+    "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
+    "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
+    "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",
+    "04 Archiwum/Zdjęcia/Pasted image 20251212233826.png",
+    "04 Archiwum/Zdjęcia",
     "Bez nazwy.base",
-    "Master Roadmap 2024/25.md",
-    "2025-12-20.md",
     "Master Roadmap 2024",
-    "01 Projekty/Biblioteka predict/Master Document - Projekt ChronoBook.md",
-    "01 Projekty/Life Dashboard/MASTER PLAN - LifeOps Platform.md",
-    "01 Projekty/SOTP/30 Technologie/Stack Technologiczny.md",
-    "01 Projekty/SOTP/99 Zasoby/Projekt 2.md",
-    "01 Projekty/SOTP/10 Planowanie/Beyoned Faza 5.md",
-    "01 Projekty/SOTP/Milestone.md",
-    "01 Projekty/SOTP/Mapa Skarbów SOTP - Punkty Kontrolne Poczucia Sprawczości.md",
-    "01 Projekty/SOTP/99 Zasoby/Biznes notatka.md",
-    "01 Projekty/SOTP/20 Architektura/Struktura Repozytorium.md",
-    "01 Projekty/SOTP/Kubernetes.md",
-    "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
-    "01 Projekty/SOTP/10 Planowanie/Roadmapa i Fazy.md",
-    "01 Projekty/SOTP/00 SOTP Dashboard.md",
     "01 Projekty/SOTP/99 Zasoby",
     "01 Projekty/SOTP/30 Technologie",
     "01 Projekty/SOTP/20 Architektura",
     "01 Projekty/SOTP/10 Planowanie",
-    "03 Baza Wiedzy/Nauka/K8s MOC.md",
-    "03 Baza Wiedzy/Nauka/Docker MOC.md",
-    "03 Baza Wiedzy/Nauka/Linux/Services.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Container runtime engine.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Core Concepts.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Docker vs containerD.md",
-    "02 Obszary/Oferty Pracy/Rekrutacje",
-    "02 Obszary/Praca",
-    "02 Obszary/Oferty Pracy",
-    "05 Szablony",
-    "Pasted image 20251212233826.png",
-    "Pasted image 20251212232916.png",
-    "Pasted image 20251125110345.png",
-    "Pasted image 20251125110227.png",
     "02 Obszary/CV/Polacode/dockerfile_golang.png",
     "02 Obszary/CV/Polacode/dockerfile_node.png",
     "02 Obszary/CV/Polacode/docker_basic.png"

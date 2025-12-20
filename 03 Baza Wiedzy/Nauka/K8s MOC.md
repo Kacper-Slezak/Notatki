@@ -27,6 +27,7 @@ priorytet: "10"
 - [[kubelet]] - Agent węzła
 - [[Kube Proxy]] - Sieciowość
 - [[Worker Nodes]]
+- [[Services]] - Umożliwia połączenia
 
 ---
 
@@ -34,6 +35,13 @@ priorytet: "10"
 - [[Przydatne komendy|Cheat Sheet kubectl]]
 - [[Deployment]] - Zarządzanie aplikacją
 - [[ReplicaSet]] & [[Replications-Controller]]
+- [[Namespaces]]
+- [[ResourceQuota]] - zarządzanie zasobami
+
+---
+
+# Sposoby zarządzania
+- [[Imperative vs Declarative]]
 
 ---
 
@@ -46,3 +54,4 @@ priorytet: "10"
 ##  Materiały i Linki
 - [Oficjalna dokumentacja](https://kubernetes.io/docs/)
 - [Interaktywne tutoriale (Killercoda)](https://killercoda.com/)
+- [Przydatne na egzamin](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
