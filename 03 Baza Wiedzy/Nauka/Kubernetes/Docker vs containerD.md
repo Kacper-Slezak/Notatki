@@ -1,3 +1,9 @@
+---
+typ: nauka
+technologia: docker
+status: do-powtórki
+data: 2024-12-20
+---
 # 1. History:
 
 - [[Docker]] jeden z pierwszych lepszych umożliwiających conteneryzacje

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8s MOC"
+              "title": "Przydatne komendy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do K8s MOC"
+              "title": "Linki zwrotne do Przydatne komendy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące z K8s MOC"
+              "title": "Łącza wychodzące z Przydatne komendy"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt K8s MOC"
+              "title": "Konspekt Przydatne komendy"
             }
           },
           {
@@ -180,39 +180,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60df0e6714b423b9",
+  "active": "5a8675208e17c0c3",
   "lastOpenFiles": [
+    "03 Baza Wiedzy/Nauka/Kubernetes/Docker vs containerD.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Core Concepts.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Replications-Controller.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ReplicaSet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node-Controller.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Master Node.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-scheduler.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-apiserver.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Proxy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/etcd.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Deployment.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Container runtime engine.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Podstawy.md",
+    "03 Baza Wiedzy/Nauka/K8s MOC.md",
     "03 Baza Wiedzy/Nauka/Docker MOC.md",
     "03 Baza Wiedzy/Nauka/Linux MOC.md",
-    "03 Baza Wiedzy/Nauka/K8s MOC.md",
     "Bez nazwy",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
     "04 Archiwum",
     "03 Baza Wiedzy",
     "02 Obszary",
     "01 Projekty",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Podstawy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Deployment.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ReplicaSet.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Core Concepts.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Replications-Controller.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Proxy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-scheduler.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node-Controller.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-apiserver.md",
     "Pasted image 20251212233826.png",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/etcd.md",
     "Pasted image 20251212232916.png",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Docker vs containerD.md",
     "03 Baza Wiedzy/Nauka/containerD.md",
     "03 Baza Wiedzy/Nauka/Docker/Docker.md",
     "03 Baza Wiedzy/Nauka/Docker/Docker Compose.md",
     "03 Baza Wiedzy/Nauka/Docker/Podstawy komend Docker.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Container runtime engine.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Master Node.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Elementy",
     "01 Projekty/SOTP/Kubernetes.md",
     "01 Projekty/SOTP/SOTP Master Document v3.5.md",

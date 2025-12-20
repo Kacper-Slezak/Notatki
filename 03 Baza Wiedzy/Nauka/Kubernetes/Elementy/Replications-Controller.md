@@ -1,3 +1,9 @@
+---
+typ: nauka
+technologia: kubernetes
+status: do-powtórki # lub opanowane
+data: 2024-12-20
+---
 # Co to ?
 
 1. Narzędzie odpowiedzialne za utrzymanie określonej ilosci podów 

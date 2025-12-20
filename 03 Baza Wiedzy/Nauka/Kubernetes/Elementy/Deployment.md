@@ -1,4 +1,9 @@
-
+---
+typ: nauka
+technologia: kubernetes
+status: do-powtórki # lub opanowane
+data: 2024-12-20
+---
 # Co to jest ?
 
 1. Warstwa abstrakcji ponad [[ReplicaSet]] i [[Pod]]
