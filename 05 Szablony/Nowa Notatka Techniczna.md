@@ -4,7 +4,7 @@ technologia:
 status:
 data:
 ---
-# Tytuł
+# {{title}}
 
 ## Opis
 
