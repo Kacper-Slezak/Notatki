@@ -1,7 +1,7 @@
 ---
 typ: projekt
-status: faza-planowania
-technologie:
+status: planowanie
+technologia:
   - Next.js
   - Tailwind
   - Python

@@ -1,7 +1,7 @@
 ---
 typ: projekt
-status: " w-produkcji"
-technologie:
+status: w-produkcji
+technologia:
   - Kubernetes
   - FastAPI
   - Prometheus
@@ -11,7 +11,7 @@ priorytet: "7"
 data_aktualizacji: 2025-12-20
 ---
 
-# 🛰️ System Observability & Telemetry Platform (SOTP)
+#  System Observability & Telemetry Platform (SOTP)
 
 > [!abstract] Cel Projektu
 > Budowa kompleksowej platformy monitoringu infrastruktury sieciowej z wykorzystaniem stosu PLT i GitOps.

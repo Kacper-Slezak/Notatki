@@ -1,7 +1,7 @@
 ---
 typ: projekt
-status: zamrożony / do-odświeżenia
-technologie:
+status: zamrożony
+technologia:
   - Python
   - ML
   - Prophet

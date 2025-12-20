@@ -3,7 +3,6 @@ typ: zestawienie
 temat: rekrutacja
 data: 2025-12-20
 ---
-
 #  Pipeline Firm i Rekrutacji
 
 > [!info] Cel 
@@ -25,7 +24,7 @@ data: 2025-12-20
 | **HSBC**           | [HSBC Jobs](https://mycareer.hsbc.com/en_GB/external)                                                       | Python, Cloud, Security       | Obserwuję             | FinTech / Bankowość inwestycyjna.          |
 | **[[IBM]]**        | [IBM Jobs](https://www.google.com/search?q=https://www.ibm.com/pl-en/employment/)                           | Cloud, Python, Java, Linux    | Oczekiwanie na ofertę | IBM Software Lab Kraków.                   |
 | **Jacobs**         | [Jacobs Careers](https://careers.jacobs.com/)                                                               | Cloud, Data Eng, Python       | Obserwuję             | Inżynieria i rozwiązania tech.             |
-| **Motorola**       | [Motorola Careers](https://www.google.com/search?q=https://motorolasolutions.wd1.myworkdayjobs.com/Careers) | **Network**, C++, Linux, Java | Wysłane CV            | Network/DevOps.                            |
+| **Motorola**       | [Motorola Careers](https://www.google.com/search?q=https://motorolasolutions.wd1.myworkdayjobs.com/Careers) | **Network**, C++, Linux, Java | Odmowa                | Network/DevOps.                            |
 | **N-iX**           | [N-iX Careers](https://www.n-ix.com/careers/)                                                               | Cloud, Java, Python, DevOps   | Obserwuję             | Software House (Zabłocie).                 |
 | **Nokia**          | [Nokia Careers](https://nokiakrakow.pl/oferty-pracy/)                                                       | C++, Python, **5G/Network**   | Obserwuję             | Centrum R&D w Krakowie.                    |
 | **Ocado Tech**     | [Ocado Careers](https://careers.ocadogroup.com/)                                                            | Python, Cloud, Java           | Obserwuję             | Zaawansowana robotyka i Cloud.             |
