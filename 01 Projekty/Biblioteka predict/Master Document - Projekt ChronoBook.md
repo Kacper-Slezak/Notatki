@@ -1,3 +1,15 @@
+---
+typ: projekt
+status: zamrożony / do-odświeżenia
+technologie:
+  - Python
+  - ML
+  - Prophet
+priorytet: "2"
+data_aktualizacji: 2025-12-20
+---
+
+#  Master Document - Projekt ChronoBook
 ## 1. Wprowadzenie i Cele Projektu
 
 ### 1.1. Nazwa Projektu

@@ -1,10 +1,20 @@
-System Observability & Telemetry Platform
+---
+typ: projekt
+status: " w-produkcji"
+technologie:
+  - Kubernetes
+  - FastAPI
+  - Prometheus
+  - Redis
+  - PostgreSQL
+priorytet: "7"
+data_aktualizacji: 2025-12-20
+---
 
-Wersja: 3.5 Ultimate Edition (zaktualizowany podział ról)
+# 🛰️ System Observability & Telemetry Platform (SOTP)
 
-Ostatnia aktualizacja: 2024-11-03
-
-Status: Gotowy Plan Produkcyjny
+> [!abstract] Cel Projektu
+> Budowa kompleksowej platformy monitoringu infrastruktury sieciowej z wykorzystaniem stosu PLT i GitOps.
 
 ### Streszczenie Zarządcze
 

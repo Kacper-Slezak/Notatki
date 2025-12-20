@@ -1,4 +1,20 @@
-#### Faza 1: Przygotowanie "Robota" (Refaktoryzacja OCR)
+---
+typ: projekt
+status: faza-planowania
+technologie:
+  - Next.js
+  - Tailwind
+  - Python
+  - Automation
+priorytet: "5"
+data_aktualizacji: 2025-12-20
+---
+
+#  MASTER PLAN - LifeOps Platform
+
+> [!quote] Wizja
+> "System operacyjny" do zarządzania życiem i automatyzacji codziennych zadań.
+## Faza 1: Przygotowanie "Robota" (Refaktoryzacja OCR)
 
 **Cel:** Zrobienie z projektu OCR czystego mikroserwisu obliczeniowego.
 
@@ -10,7 +26,7 @@
 3. **Docker:** Upewnij się, że Dockerfile dla OCR jest lekki i instaluje tylko Tesseract i niezbędne biblioteki Pythonowe.
     
 
-#### Faza 2: Rozbudowa "Mózgu" (FastAPI Core)
+## Faza 2: Rozbudowa "Mózgu" (FastAPI Core)
 
 **Cel:** Przejęcie logiki biznesowej przez główny serwis.
 
@@ -22,7 +38,7 @@
 - **Google Fit:** Upewnij się, że logika pobierania danych zdrowotnych działa i zapisuje dane do tej samej bazy PostgreSQL (żeby Grafana miała do nich dostęp).
     
 
-#### Faza 3: Infrastruktura i Orkiestracja (DevOps Core)
+## Faza 3: Infrastruktura i Orkiestracja (DevOps Core)
 
 **Cel:** Połączenie wszystkiego w jeden ekosystem.
 
@@ -39,7 +55,7 @@
 2. **Networking:** Skonfiguruj wewnętrzną sieć w Dockerze, tak aby FastAPI mogło łączyć się z OCR po nazwie serwisu (np. `http://ocr-worker:5000`), ale żeby nikt z zewnątrz nie miał dostępu do OCR bezpośrednio.
     
 
-#### Faza 4: Obserwowalność (Twoje "Frontendowe" Wykresy)
+## Faza 4: Obserwowalność (Twoje "Frontendowe" Wykresy)
 
 **Cel:** Wizualizacja danych bez pisania kodu frontendu.
 
@@ -56,7 +72,7 @@
     - **System Dashboard:** Wykresy z Prometheusa (czas odpowiedzi API, status serwisu OCR).
         
 
-#### Faza 5: Szlify Końcowe (Pod CV)
+## Faza 5: Szlify Końcowe (Pod CV)
 
 1. **Dokumentacja:** Zaktualizuj README.md. Opisz architekturę, narysuj prosty schemat (nawet w ASCII), jak serwisy gadają ze sobą.
     
