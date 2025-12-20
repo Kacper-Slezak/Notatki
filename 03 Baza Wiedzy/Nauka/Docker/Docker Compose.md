@@ -1,6 +1,8 @@
-#### 1. Co to ?
+# Co to ?
+
 - To odpowiednik docker run ustrukturyzowany w  pliku [[.yml]] , służy do startu 
-#### 2. Najczęściej używane opcje:
+# Najczęściej używane opcje:
+
 - `--detach`, `-d` - **Tryb odłączony**. Uruchamia kontener w tle, nie blokując terminala.
 	
 - `--entrypoint` - **Nadpisanie punktu wejścia**. Zmienia domyślną komendę uruchamianą, gdy kontener startuje, która została zdefiniowana w obrazie.
@@ -22,7 +24,8 @@
 - `--restart` - **Polityka restartu**. Określa, kiedy i czy kontener powinien być automatycznie restartowany po zatrzymaniu. Dostępne opcje to m.in. `unless-stopped`, `always`, `on-failure` i `no`.
 	
 - `--rm` - **Automatyczne usuwanie**. Powoduje automatyczne usunięcie kontenera po jego zatrzymaniu, co pomaga w utrzymaniu czystości w systemie.
-#### 3. Zaawansowane opcje:
+
+# 3. Zaawansowane opcje:
 
 - `--cap-add`, `--cap-drop` - Służą do dodawania lub usuwania uprawnień (tzw. capabilities) dla kontenera, co pozwala precyzyjnie kontrolować jego możliwości.
 	
@@ -51,7 +54,8 @@
 - `--security-opt` - Służy do ustawiania opcji bezpieczeństwa dla kontenera, takich jak profile SELinux czy AppArmor.
 	
 - `dockerd --userns-remap` - Włącza remapowanie przestrzeni nazw użytkownika (user namespace) w demonie Dockera, co zwiększa bezpieczeństwo poprzez izolację użytkownika `root` w kontenerze od użytkownika `root` na hoście.
-#### 4.  Komendy Docker Compose
+
+# 4.  Komendy Docker Compose
 
 Docker Compose to narzędzie, które ułatwia definiowanie i uruchamianie aplikacji składających się z wielu kontenerów. Konfigurację projektu zapisuje się w pliku `docker-compose.yml`.
 
@@ -70,11 +74,9 @@ Docker Compose to narzędzie, które ułatwia definiowanie i uruchamianie aplika
 - `docker-compose logs` - **Wyświetlanie logów**. Pokazuje logi ze wszystkich kontenerów w projekcie. Można użyć z opcją `-f` do śledzenia ich na bieżąco.
     
 - `docker-compose exec [SERVICE] [COMMAND]` - **Wykonywanie komend**. Pozwala na wykonanie komendy wewnątrz już działającego kontenera. Na przykład, `docker-compose exec web bash` otworzy powłokę w kontenerze `web`.
-    
 
----
 
-### Tworzenie pliku `docker-compose.yml`
+# Tworzenie pliku `docker-compose.yml`
 
 Plik `docker-compose.yml` jest sercem każdego projektu opartego na Docker Compose. Jest to plik tekstowy w formacie YAML, w którym definiuje się usługi (kontenery), sieci i wolumeny.
 
@@ -114,7 +116,8 @@ Więcej opcji, które można zdefiniować w `docker-compose.yml` to m.in.:
     
 - `networks`: Tworzenie niestandardowych sieci dla kontenerów.
 
-Zaawansowana struktura 
+## Zaawansowana struktura:
+
 ```
 services:
 
