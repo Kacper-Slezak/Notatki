@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b26b12ee4d4dd9f",
+        "id": "8dc2cdfb0ba3403d",
         "type": "tabs",
         "children": [
           {
-            "id": "c98ea8cabe14e30a",
+            "id": "5a8675208e17c0c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Nauka/Kubernetes/Przydatne komendy.md",
+                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Przydatne komendy"
+              "title": "K8s MOC"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne"
+              "title": "Linki zwrotne do K8s MOC"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące"
+              "title": "Łącza wychodzące z K8s MOC"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ścieżka Kariery/Roadmapa - DevOps, Cloud, FinTech.md",
+                "file": "03 Baza Wiedzy/Nauka/K8s MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Roadmapa - DevOps, Cloud, FinTech"
+              "title": "Konspekt K8s MOC"
             }
           },
           {
@@ -178,50 +180,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c98ea8cabe14e30a",
+  "active": "60df0e6714b423b9",
   "lastOpenFiles": [
-    "CV/Nauka/Kubernetes/Kubernetes Podstawy.md",
-    "CV/Nauka/Kubernetes/Przydatne komendy.md",
-    "CV/Nauka/Kubernetes/Elementy/Deployment.md",
-    "CV/Nauka/Kubernetes/Elementy/ReplicaSet.md",
-    "CV/Nauka/Kubernetes/Kubernetes Core Concepts.md",
-    "CV/Nauka/Kubernetes/Elementy/Replications-Controller.md",
-    "CV/Nauka/Kubernetes/Elementy/Kube Proxy.md",
-    "CV/Nauka/Kubernetes/Elementy/kubelet.md",
-    "CV/Nauka/Kubernetes/Elementy/kube-scheduler.md",
-    "CV/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
-    "CV/Nauka/Kubernetes/Elementy/Node-Controller.md",
-    "CV/Nauka/Kubernetes/Elementy/kube-apiserver.md",
+    "03 Baza Wiedzy/Nauka/Docker MOC.md",
+    "03 Baza Wiedzy/Nauka/Linux MOC.md",
+    "03 Baza Wiedzy/Nauka/K8s MOC.md",
+    "Bez nazwy",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
+    "04 Archiwum",
+    "03 Baza Wiedzy",
+    "02 Obszary",
+    "01 Projekty",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Podstawy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Deployment.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ReplicaSet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Core Concepts.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Replications-Controller.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Proxy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-scheduler.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node-Controller.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kube-apiserver.md",
     "Pasted image 20251212233826.png",
-    "CV/Nauka/Kubernetes/Elementy/etcd.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/etcd.md",
     "Pasted image 20251212232916.png",
-    "CV/Nauka/Kubernetes/Docker vs containerD.md",
-    "CV/Nauka/containerD.md",
-    "CV/Nauka/Docker/Docker.md",
-    "CV/Nauka/Docker/Docker Compose.md",
-    "CV/Nauka/Docker/Podstawy komend Docker.md",
-    "CV/Nauka/Kubernetes/Elementy/Container runtime engine.md",
-    "CV/Nauka/Kubernetes/Elementy/Master Node.md",
-    "CV/Nauka/Kubernetes/Elementy/Worker Nodes.md",
-    "CV/Nauka/Kubernetes/Elementy",
-    "CV/Projekty/SOTP/Kubernetes.md",
-    "CV/Projekty/SOTP/SOTP Master Document v3.5.md",
-    "CV/Projekty/Life Dashboard/MASTER PLAN - LifeOps Platform.md",
-    "CV/Projekty/Life Dashboard/README.md",
-    "CV/Projekty/Life Dashboard",
-    "CV/Ścieżka Kariery/plan.md",
-    "CV/Nauka/Linux/Shell",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Docker vs containerD.md",
+    "03 Baza Wiedzy/Nauka/containerD.md",
+    "03 Baza Wiedzy/Nauka/Docker/Docker.md",
+    "03 Baza Wiedzy/Nauka/Docker/Docker Compose.md",
+    "03 Baza Wiedzy/Nauka/Docker/Podstawy komend Docker.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Container runtime engine.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Master Node.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy",
+    "01 Projekty/SOTP/Kubernetes.md",
+    "01 Projekty/SOTP/SOTP Master Document v3.5.md",
+    "01 Projekty/Life Dashboard",
+    "03 Baza Wiedzy/Nauka/Linux/Shell",
     "Pasted image 20251125110345.png",
     "Pasted image 20251125110227.png",
-    "CV/Nauka/Linux",
-    "Bez nazwy",
-    "Inzynierka",
-    "Podróże",
-    "CV/Projekty/Biblioteka predict",
-    "CV/Projekty/SOTP",
-    "CV/Projekty",
-    "CV/Polacode/dockerfile_golang.png",
-    "CV/Polacode/dockerfile_node.png",
-    "CV/Polacode/docker_basic.png"
+    "03 Baza Wiedzy/Nauka/Linux",
+    "04 Archiwum/Inzynierka",
+    "02 Obszary/CV/Polacode/dockerfile_golang.png",
+    "02 Obszary/CV/Polacode/dockerfile_node.png",
+    "02 Obszary/CV/Polacode/docker_basic.png"
   ]
 }
