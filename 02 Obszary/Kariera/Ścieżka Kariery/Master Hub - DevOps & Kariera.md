@@ -26,7 +26,6 @@ data: 2025-12-20
 ---
 
 ##  II. Portfolio Projektowe (Realizacja)
-*Tutaj łączymy teorię z Twoimi realnymi projektami.*
 
 ###  [[SOTP Master Document v3.5|Projekt SOTP]]
 - **Status:** Gotowy Plan Produkcyjny. Między Faza 1, a Faza 2

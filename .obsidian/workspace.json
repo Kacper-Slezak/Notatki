@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c216fd4be676273c",
+        "id": "5f24fa709245832d",
         "type": "tabs",
         "children": [
           {
-            "id": "29b3b6bcedd0dd9d",
+            "id": "1541b63607e14b70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Manulne Scheduling"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -201,36 +187,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29b3b6bcedd0dd9d",
+  "active": "60df0e6714b423b9",
   "lastOpenFiles": [
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Pod.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Scheduling - how work.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Bez nazwy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kubectl apply.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Kubectl apply.md",
+    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+    "02 Obszary/Zdrowie/Trening - Plan.md",
+    "Dashboards/Wellbeing Dashboard.md",
+    "Dashboards/Kariera Dashboard.md",
     "06 Codzienne Notatki/2025/12 Grudzień/2025-12-21.md",
     "Dashboards/Główny.md",
-    "02 Obszary/Relacje/Związek - Erasmus.md",
-    "02 Obszary/Finanse/Budżet - miesięczny.md",
-    "02 Obszary/Zdrowie/Trening - Plan.md",
-    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
-    "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
-    "02 Obszary/Relacje/Komunikacja.md",
-    "02 Obszary/Zdrowie/Bez nazwy",
-    "05 Szablony/Nowa Notatka Techniczna.md",
     "05 Szablony/Szablon Bloga.md",
-    "05 Szablony/Szablon Codzinna Notatka.md",
-    "05 Szablony/Szablon Listy.md",
-    "05 Szablony/Szablon MOC.md",
-    "05 Szablony/Szablon Rekrutacji.md",
-    "05 Szablony/Szablon Rozmowy.md",
-    "05 Szablony/Szablon Tygodniowe Podsumowanie.md",
     "05 Szablony/Szablon Uniwersalny.md",
-    "05 Szablony/Szbalon Projektu.md",
     "05 Szablony/Szybka Myśl.md",
+    "05 Szablony/Szbalon Projektu.md",
+    "05 Szablony/Szablon Codzinna Notatka.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/test.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Test.md",
+    "05 Szablony/Szablon Rekrutacji.md",
+    "05 Szablony/Szablon Tygodniowe Podsumowanie.md",
+    "05 Szablony/Nowa Notatka Techniczna.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Scheduling - how work.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Namespaces.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Services.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Deployment.md",
+    "03 Baza Wiedzy/Nauka/K8s MOC.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
+    "05 Szablony/Szablon Rozmowy.md",
+    "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
+    "02 Obszary/Kariera/Praca/IBM.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
+    "02 Obszary/Zdrowie/Bez nazwy",
     "07 Przeglądy Tygodniowe",
     "Dashboards",
     "06 Codzienne Notatki/2026",

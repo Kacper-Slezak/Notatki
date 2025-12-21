@@ -25,8 +25,7 @@ data: 2025-12-20
 	- Port na [[Pod]] jest nazwany **TargetPort** np. 80
 	- Port na [[Services]] dowiązany do TargetPortu nazwany jest **Port** np. 80
 	- Port na [[Node]] to **NodePort** jest on z zakresu 30000-32767 podstowowo
-
-
+	
 	**ClusterIP**
 	- Podstawowe, gdy nic nie zdefinujesz
 	- Tworzy wirtualne IP, aby umożliwić komunikacje miedzy różnymi serwisami w klastrze

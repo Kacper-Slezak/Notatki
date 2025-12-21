@@ -2,7 +2,7 @@
 typ: dashboard
 kategoria: wellbeing
 ---
-## 📊 Przegląd Ostatnich 30 Dni
+##  Przegląd Ostatnich 30 Dni
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Dzień",
@@ -16,7 +16,7 @@ SORT file.day DESC
 LIMIT 30
 ```
 
-## 📈 Statystyki
+##  Statystyki
 ```dataviewjs
 const days = dv.pages('"06 Codzienne Notatki"')
   .where(p => p.file.day >= dv.date('today').minus({days: 30}));
