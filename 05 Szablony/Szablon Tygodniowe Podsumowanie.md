@@ -1,8 +1,4 @@
----
-typ: weekly-review
-tydzień: {{date:YYYY-[W]ww}}
-zakres: {{monday:YYYY-MM-DD}} do {{sunday:YYYY-MM-DD}}
----
+
 
 # Przegląd Tygodnia: {{date:YYYY-[W]ww}}
 

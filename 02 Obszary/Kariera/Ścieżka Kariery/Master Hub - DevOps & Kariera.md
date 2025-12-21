@@ -50,8 +50,8 @@ data: 2025-12-20
 - [ ] **Linux:** Znajomość serwisów, set, awk itp.
 ###  Pipeline Rekrutacyjny
 - **Lista Firm:** Wszystkie cele i statusy znajdziesz w [[Firmy]].
-- **Przygotowanie:** Pytania z rozmów notuj w [[Szablon Rozmowy]].
-- **Ocena:** Po rozmowie przygotować notatkę wniosków w [[Szablon Rekrutacji]]
+- **Przygotowanie:** Pytania z rozmów notuj w [[Szablon Rekrutacji]].
+- **Ocena:** Po rozmowie przygotować notatkę wniosków w [[Szablon Rozmowy]]
 
 ---
 

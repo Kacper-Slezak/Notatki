@@ -1,10 +1,23 @@
 ---
 typ: dashboard
 ---
+# 🚀 Dashboard Główny
 
-#  Dashboard Główny
+## 📅 Dzisiaj: `$= dateformat(date(today), "cccc, d MMMM yyyy")`
+`$= "[[ " + dateformat(date(today), "yyyy-MM-dd") + " | 📅 Otwórz dzisiejszą notatkę ]]" ` | `$= "[[ " + dateformat(date(today) + dur(1 day), "yyyy-MM-dd") + " | ⏭️ Jutro ]]" `
 
-##  Dzisiaj: {{date:dddd, D MMMM YYYY}}
+---
+## 📊 Postęp w tym tygodniu
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Dzień",
+  trening AS "Trening",
+  rozciąganie AS "Rozciąganie",
+  stres AS "Stres"
+FROM "06 Codzienne Notatki"
+WHERE file.day >= date(today) - dur(7 days)
+SORT file.day DESC
+```
 
 [[{{date:YYYY-MM-DD}}| Otwórz Dzisiejszą Notatkę]] | [[{{date:YYYY-MM-DD,+1}}| Jutro]]
 
@@ -27,20 +40,6 @@ typ: dashboard
 -  [[Trening - Plan|Plan Treningowy]]
 -  [[Pomysły na wpisy|Blog - Pomysły]]
 
----
-
-##  Postęp w Tym Tygodniu
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Dzień",
-  trening AS "Trening",
-  rozciąganie AS "Rozciąganie",
-  stres AS "Stres"
-FROM "06 Daily Notes"
-WHERE file.day >= date({{monday:YYYY-MM-DD}}) 
-  AND file.day <= date({{date:YYYY-MM-DD}})
-SORT file.day DESC
-```
 
 ---
 
