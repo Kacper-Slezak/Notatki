@@ -1,7 +1,8 @@
 ---
 typ: zakupy
-kategoria: # np. elektronika, dom, edc
+kategoria:
 status: lista-zyczen
+data: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 #  Lista Zakupów: {{title}}

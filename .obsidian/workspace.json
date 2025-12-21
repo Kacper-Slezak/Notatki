@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b811c1673df4e7a",
+        "id": "447461aab1b75d08",
         "type": "tabs",
         "children": [
           {
-            "id": "ad0a4cda5f751e30",
+            "id": "b9a23fa18ecd43b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Szablony/Szablon Tygodniowe Podsumowanie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Szablon Tygodniowe Podsumowanie"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -99,6 +85,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "16677dea41925158",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "60df0e6714b423b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "4361949befc6a5bd",
             "type": "leaf",
             "state": {
@@ -152,37 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                "file": "02 Obszary/Relacje/Związek - Erasmus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Firmy"
-            }
-          },
-          {
-            "id": "60df0e6714b423b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "16677dea41925158",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Konspekt Związek - Erasmus"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,12 +179,10 @@
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz graf": false,
       "canvas:Stwórz nową tablicę": false,
-      "daily-notes:Otwórz codzienną notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
-      "scribe:Scribe": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false
@@ -206,42 +190,42 @@
   },
   "active": "60df0e6714b423b9",
   "lastOpenFiles": [
+    "02 Obszary/Finanse/Budżet - miesięczny.md",
+    "02 Obszary/Zdrowie/Trening - Plan.md",
+    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+    "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
+    "02 Obszary/Relacje/Komunikacja.md",
+    "02 Obszary/Relacje/Związek - Erasmus.md",
+    "Dashboards/Główny.md",
+    "02 Obszary/Zdrowie/Bez nazwy",
+    "05 Szablony/Nowa Notatka Techniczna.md",
+    "05 Szablony/Szablon Bloga.md",
+    "05 Szablony/Szablon Codzinna Notatka.md",
+    "05 Szablony/Szablon Listy.md",
+    "05 Szablony/Szablon MOC.md",
+    "05 Szablony/Szablon Rekrutacji.md",
     "05 Szablony/Szablon Rozmowy.md",
     "05 Szablony/Szablon Tygodniowe Podsumowanie.md",
     "05 Szablony/Szablon Uniwersalny.md",
     "05 Szablony/Szbalon Projektu.md",
     "05 Szablony/Szybka Myśl.md",
-    "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
-    "05 Szablony/Szablon Codzinna Notatka.md",
-    "05 Szablony/Szablon Listy.md",
-    "05 Szablony/Nowa Notatka Techniczna.md",
-    "05 Szablony/Szablon Rekrutacji.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
-    "Dashboards/Główny.md",
-    "05 Szablony/Szablon MOC.md",
-    "05 Szablony/Szablon Bloga.md",
-    "Dashboards/Kariera Dashboard.md",
     "Dashboards/Wellbeing Dashboard.md",
+    "Dashboards/Kariera Dashboard.md",
+    "00 Inbox/Quick Notes.md",
+    "Dashboards/Trening - Plan.md",
+    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-21.md",
+    "07 Przeglądy Tygodniowe",
+    "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
+    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
     "Dashboards",
     "06 Codzienne Notatki/2026",
     "06 Codzienne Notatki/2025/12 Grudzień",
     "06 Codzienne Notatki/2025",
     "06 Codzienne Notatki/Bez nazwy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Services.md",
     "06 Codzienne Notatki",
     "02 Obszary/Relacje",
-    "02 Obszary/Bez nazwy.md",
     "02 Obszary/Zdrowie",
     "02 Obszary/Finanse",
-    "02 Obszary/Kariera",
-    "02 Obszary/Blog/Pomysły na wpisy.md",
-    "02 Obszary/Blog/Pomysły na serie wpisów.md",
-    "02 Obszary/Blog/Bez nazwy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
-    "03 Baza Wiedzy/Nauka/K8s MOC.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Imperative vs Declarative.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Namespaces.md",
-    "00 Inbox",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",

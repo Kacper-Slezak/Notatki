@@ -1,10 +1,10 @@
 ---
 typ: projekt
-status: planowanie # w-trakcie, zakończony, wstrzymany
-priorytet: "5" # skala 1-10
-data_rozpoczecia: {{date}}
+status: planowanie
+priorytet: "5"
+data_rozpoczecia: <% tp.date.now("YYYY-MM-DD") %>
 technologia:
-  - 
+  -
 ---
 
 #  {{title}}

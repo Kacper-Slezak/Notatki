@@ -2,29 +2,40 @@
 typ: dashboard
 kategoria: wellbeing
 ---
-
-#  Wellbeing Dashboard
-
-##  Przegląd Ostatnich 30 Dni
+## 📊 Przegląd Ostatnich 30 Dni
 ```dataview
-TABLE
-  trening AS "Trening",
-  rozciąganie AS "Rozciąganie",
-  sen AS "Sen",
-  stres AS "Stres (1-10)"
-FROM "06 Daily Notes"
+TABLE WITHOUT ID
+  file.link AS "Dzień",
+  choice(trening, "✅", "❌") AS "Trening",
+  choice(rozciąganie, "✅", "❌") AS "Rozciąganie",
+  (string(sen) + "/10") AS "Sen",
+  (string(stres) + "/10") AS "Stres"
+FROM "06 Codzienne Notatki"
 WHERE file.day >= date(today) - dur(30 days)
 SORT file.day DESC
+LIMIT 30
 ```
 
----
+## 📈 Statystyki
+```dataviewjs
+const days = dv.pages('"06 Codzienne Notatki"')
+  .where(p => p.file.day >= dv.date('today').minus({days: 30}));
 
-##  Statystyki Miesięczne
+const treningi = days.where(p => p.trening === true).length;
+const rozciaganie = days.where(p => p.rozciąganie === true).length;
+const sleepData = days.array().map(p => parseInt(p.sen) || 0).filter(x => x > 0);
+const avgSen = sleepData.length > 0 ? sleepData.reduce((a,b) => a+b, 0) / sleepData.length : 0;
+const stressData = days.array().map(p => parseInt(p.stres) || 0).filter(x => x > 0);
+const avgStres = stressData.length > 0 ? stressData.reduce((a,b) => a+b, 0) / stressData.length : 0;
 
-- **Treningi:** X / 20 zaplanowanych (cel: 15+)
-- **Rozciąganie:** X / 30 dni (cel: 25+)
-- **Średni stres:** X/10
-- **Dni bez stresu (≤3):** X
+dv.paragraph(`
+- **Treningi:** ${treningi} / 20 zaplanowanych (${Math.round(treningi/20*100)}%)
+- **Rozciąganie:** ${rozciaganie} / 30 dni (${Math.round(rozciaganie/30*100)}%)
+- **Średni sen:** ${avgSen.toFixed(1)}/10
+- **Średni stres:** ${avgStres.toFixed(1)}/10
+- **Dni bez stresu (≤3):** ${stressData.filter(x => x <= 3).length}
+`);
+```
 
 ---
 

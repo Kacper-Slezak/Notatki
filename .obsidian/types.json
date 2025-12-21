@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "projekt": "text",
-    "data_rozpoczecia": "date",
-    "data": "date"
+    "data_rozpoczecia": "text",
+    "data": "text"
   }
 }

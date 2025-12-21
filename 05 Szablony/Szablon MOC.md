@@ -2,7 +2,7 @@
 typ: MOC
 temat:
 status:
-data:
+data: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 #  {{title}}

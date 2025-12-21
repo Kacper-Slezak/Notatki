@@ -1,25 +1,30 @@
 ---
 typ: dashboard
 ---
-# 🚀 Dashboard Główny
+#  Dashboard Główny
 
-## 📅 Dzisiaj: `$= dateformat(date(today), "cccc, d MMMM yyyy")`
-`$= "[[ " + dateformat(date(today), "yyyy-MM-dd") + " | 📅 Otwórz dzisiejszą notatkę ]]" ` | `$= "[[ " + dateformat(date(today) + dur(1 day), "yyyy-MM-dd") + " | ⏭️ Jutro ]]" `
+##  Dzisiaj
+```dataviewjs
+const today = moment().format("YYYY-MM-DD");
+const tomorrow = moment().add(1, 'days').format("YYYY-MM-DD");
+dv.paragraph(`**${moment().format("dddd, D MMMM YYYY")}**`);
+dv.paragraph(`[[${today}| Dzisiejsza notatka]] | [[${tomorrow}| Jutro]]`);
+```
 
 ---
-## 📊 Postęp w tym tygodniu
+
+##  Postęp w tym tygodniu
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Dzień",
-  trening AS "Trening",
-  rozciąganie AS "Rozciąganie",
-  stres AS "Stres"
+  choice(trening, "✅", "❌") AS "Trening",
+  choice(rozciąganie, "✅", "❌") AS "Rozciąganie",
+  (string(sen) + "/10") AS "Sen",
+  (string(stres) + "/10") AS "Stres"
 FROM "06 Codzienne Notatki"
 WHERE file.day >= date(today) - dur(7 days)
 SORT file.day DESC
 ```
-
-[[{{date:YYYY-MM-DD}}| Otwórz Dzisiejszą Notatkę]] | [[{{date:YYYY-MM-DD,+1}}| Jutro]]
 
 ---
 
@@ -29,7 +34,6 @@ SORT file.day DESC
 | --------- | --------------------------------- |
 | Kariera   | [[Kariera Dashboard]]             |
 | Wellbeing | [[Wellbeing Dashboard]]           |
-| Finanse   | [[Budget 2025]]                   |
 | Projekty  | [[Master Hub - DevOps & Kariera]] |
 
 ---
@@ -40,12 +44,13 @@ SORT file.day DESC
 -  [[Trening - Plan|Plan Treningowy]]
 -  [[Pomysły na wpisy|Blog - Pomysły]]
 
-
 ---
 
-##  Hot Topics (Ostatnie 5 notatek)
+## 🔥 Hot Topics (Ostatnie 5 edycji)
 ```dataview
-TABLE file.mtime AS "Ostatnia Edycja"
+TABLE WITHOUT ID
+  file.link AS "Notatka",
+  file.mtime AS "Edycja"
 FROM ""
 WHERE file.mtime >= date(today) - dur(7 days)
 SORT file.mtime DESC
@@ -54,8 +59,8 @@ LIMIT 5
 
 ---
 
-##  Przypomnienia
+## ⏰ Przypomnienia
 
 - [ ] Weekly Review w niedzielę wieczorem
-- [ ] Sprawdź [[Firmy|Oferty Pracy]] (czwartek)
+- [ ] Sprawdź oferty pracy (czwartek)
 - [ ] Video call z dziewczyną (wtorek + sobota)

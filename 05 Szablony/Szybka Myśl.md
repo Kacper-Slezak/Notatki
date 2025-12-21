@@ -1,7 +1,7 @@
 ---
 typ: mysl
 status: do-przejrzenia
-data: {{date}}
+data: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 #  {{title}}

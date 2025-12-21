@@ -2,7 +2,7 @@
 typ: notatka
 tagi: []
 status: nowa
-data: {{date}}
+data: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # {{title}}

@@ -1,17 +1,16 @@
 {
   "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "05 Szablony/Szablon Codzinna Notatka.md",
-    "folder": "06 Codzienne Notatki/{{date:YYYY}}/{{date:MM MMMM}}",
+    "folder": "06 Codzienne Notatki/2025/12 Grudzień",
+    "template": "05 Szablony/Szablon Codzinna Notatka",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "05 Szablony/Szablon Tygodniowe Podsumowanie.md",
+    "folder": "07 Przeglądy Tygodniowe",
     "enabled": true
   },
   "monthly": {

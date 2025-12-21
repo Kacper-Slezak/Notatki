@@ -1,14 +1,14 @@
 ---
 typ:
 technologia:
-status:
-data:
+status: nowa
+data: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ---
 
 # {{title}}
 
-##  Co to jest? (ELI5)
+##  Co to jest? 
 *Krótka definicja własnymi słowami*
 
 ##  Jak to działa?
