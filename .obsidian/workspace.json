@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "447461aab1b75d08",
+        "id": "c216fd4be676273c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a23fa18ecd43b6",
+            "id": "29b3b6bcedd0dd9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Manulne Scheduling"
             }
           }
         ]
@@ -158,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Obszary/Relacje/Związek - Erasmus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Związek - Erasmus"
+              "title": "Konspekt"
             }
           }
         ],
@@ -188,15 +201,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "60df0e6714b423b9",
+  "active": "29b3b6bcedd0dd9d",
   "lastOpenFiles": [
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Pod.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Scheduling - how work.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Bez nazwy.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kubectl apply.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Kubectl apply.md",
+    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-21.md",
+    "Dashboards/Główny.md",
+    "02 Obszary/Relacje/Związek - Erasmus.md",
     "02 Obszary/Finanse/Budżet - miesięczny.md",
     "02 Obszary/Zdrowie/Trening - Plan.md",
     "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
     "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
     "02 Obszary/Relacje/Komunikacja.md",
-    "02 Obszary/Relacje/Związek - Erasmus.md",
-    "Dashboards/Główny.md",
     "02 Obszary/Zdrowie/Bez nazwy",
     "05 Szablony/Nowa Notatka Techniczna.md",
     "05 Szablony/Szablon Bloga.md",
@@ -209,23 +231,14 @@
     "05 Szablony/Szablon Uniwersalny.md",
     "05 Szablony/Szbalon Projektu.md",
     "05 Szablony/Szybka Myśl.md",
-    "Dashboards/Wellbeing Dashboard.md",
-    "Dashboards/Kariera Dashboard.md",
-    "00 Inbox/Quick Notes.md",
-    "Dashboards/Trening - Plan.md",
-    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-21.md",
     "07 Przeglądy Tygodniowe",
-    "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
     "Dashboards",
     "06 Codzienne Notatki/2026",
     "06 Codzienne Notatki/2025/12 Grudzień",
     "06 Codzienne Notatki/2025",
-    "06 Codzienne Notatki/Bez nazwy.md",
     "06 Codzienne Notatki",
     "02 Obszary/Relacje",
     "02 Obszary/Zdrowie",
-    "02 Obszary/Finanse",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",
