@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "attachmentFolderPath": "04 Archiwum/Zdjęcia",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }

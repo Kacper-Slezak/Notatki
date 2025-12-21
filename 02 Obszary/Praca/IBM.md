@@ -1,4 +1,0 @@
-# Rekrutacja
-
- [[IBM - Rekrutacja]]
- 

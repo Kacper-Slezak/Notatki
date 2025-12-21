@@ -1,0 +1,5 @@
+{
+  "autorun": true,
+  "folder": "06 Codzienne Notatki/{{date:YYYY}}/{{date:MM MMMM}}",
+  "template": "05 Szablony/Szablon Codzinna Notatka"
+}
