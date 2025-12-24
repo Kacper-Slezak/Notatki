@@ -1,11 +1,10 @@
 ### **Skryptowanie:**
 
-- [ ] **Bash**:
-    
-    - [ ] Podstawy: Używanie zmiennych, pętli.
-        
+- [ ] **Bash**: 
+	    
+    - [x] Podstawy: Używanie zmiennych, pętli.
+    	 ✅ 2025-12-24
     - [ ] Zaawansowane: Pisanie funkcji, obsługa błędów.
-        
 - [ ] **Python**:
     
     - [ ] Podstawy: Tworzenie skryptów do automatyzacji.
@@ -25,16 +24,16 @@
 
 - [ ] **Git**:
     
-    - [ ] Podstawy: `clone`, `add`, `commit`, `push`, `pull`.
-        
+    - [x] Podstawy: `clone`, `add`, `commit`, `push`, `pull`.
+    	 ✅ 2025-12-24
     - [ ] Zaawansowane: `rebase`, `cherry-pick`, rozwiązywanie konfliktów.
         
-- [ ] **Platformy (GitHub/GitLab)**:
+- [x] **Platformy (GitHub/GitLab)**: ✅ 2025-12-24
     
-    - [ ] Podstawy: Tworzenie pull/merge requestów, obsługa `issues`.
-        
-    - [ ] Zaawansowane: Konfiguracja repozytoriów, akcje/pipeline'y.
-        
+    - [x] Podstawy: Tworzenie pull/merge requestów, obsługa `issues`.
+    	 ✅ 2025-12-24
+    - [x] Zaawansowane: Konfiguracja repozytoriów, akcje/pipeline'y.
+    	 ✅ 2025-12-24
 
 ---
 
@@ -54,8 +53,8 @@
         
 - [ ] **GitHub Actions**:
     
-    - [ ] Podstawy: Tworzenie prostych plików `.yml` w `.github/workflows`.
-        
+    - [x] Podstawy: Tworzenie prostych plików `.yml` w `.github/workflows`.
+    	 ✅ 2025-12-24
     - [ ] Zaawansowane: Warunki, macierze (`matrices`), używanie sekretów.
         
 
@@ -63,16 +62,16 @@
 
 ### **Linux:**
 
-- [ ] **Podstawy systemu**:
+- [x] **Podstawy systemu**: ✅ 2025-12-24
     
     - [x] Podstawy: Znajomość komend (`ls`, `cd`, `grep`, `find`, `awk`, `sed`).
-        
-    - [ ] Zaawansowane: Zarządzanie uprawnieniami, procesami (`ps`, `top`, `kill`).
-        
+    	 ✅ 2025-12-24
+    - [x] Zaawansowane: Zarządzanie uprawnieniami, procesami (`ps`, `top`, `kill`).
+    	 ✅ 2025-12-24
 - [ ] **Systemd**:
     
-    - [ ] Podstawy: Włączanie, wyłączanie, sprawdzanie statusu usług.
-        
+    - [x] Podstawy: Włączanie, wyłączanie, sprawdzanie statusu usług.
+    	 ✅ 2025-12-24
     - [ ] Zaawansowane: Tworzenie własnych jednostek usługi (`.service` files).
         
 - [ ] **Sieci w Linuksie**:
@@ -152,7 +151,7 @@
 
 ---
 
-### **Bazy Danych (NOWA SEKCJA):**
+### **Bazy Danych :**
 
 - [ ] **Relacyjne (SQL)**:
     
@@ -167,7 +166,7 @@
 
 ---
 
-### **Metodologie Pracy (NOWA SEKCJA):**
+### **Metodologie Pracy :**
 
 - [ ] **Agile/Scrum**:
     
@@ -182,7 +181,7 @@
 
 ---
 
-### **Umiejętności Miękkie i Rekrutacja (NOWA SEKCJA):**
+### **Umiejętności Miękkie i Rekrutacja :**
 
 - [ ] **Angielski**:
     

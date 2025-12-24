@@ -14,4 +14,4 @@ Gdy czuję zazdrosć:
 
 ## Plan Wizyty
 - [ ] Zaplanować lot do Hiszpanii (kwiecień/maj?)
-- [ ] Budget: ~800-1000 zł z "Funduszu Radość"
+- [ ] Budget: ~800-1000 zł z "Funduszu Radość z Życia"

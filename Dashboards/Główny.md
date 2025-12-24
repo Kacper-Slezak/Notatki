@@ -46,7 +46,7 @@ SORT file.day DESC
 
 ---
 
-## 🔥 Hot Topics (Ostatnie 5 edycji)
+##  Hot Topics (Ostatnie 5 edycji)
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Notatka",
@@ -59,7 +59,7 @@ LIMIT 5
 
 ---
 
-## ⏰ Przypomnienia
+##  Przypomnienia
 
 - [ ] Weekly Review w niedzielę wieczorem
 - [ ] Sprawdź oferty pracy (czwartek)

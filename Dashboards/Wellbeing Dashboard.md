@@ -40,13 +40,58 @@ dv.paragraph(`
 ---
 
 ##  Cele Wellbeing
+```dataviewjs
+// 1. Ustawienia i dane
+const folder = '"06 Codzienne Notatki"'; // Upewnij się, że nazwa jest poprawna
+const dni = 30;
+const start = dv.date('today').minus({days: dni});
+const pages = dv.pages(folder).where(p => p.file.day >= start);
 
-| Cel                    | Status | Postęp |
-| ---------------------- | ------ | ------ |
-| Trening 3-5x/tydzień   | 🟡     | 12/20  |
-| Rozciąganie codziennie | 🟢     | 25/30  |
-| Sen 7-8h               | 🔴     | Uwaga! |
-| Dziennik emocji        | 🟢     | 28/30  |
+// 2. Obliczenia
+const treningi = pages.where(p => p.trening === true).length;
+const rozciaganie = pages.where(p => p.rozciąganie === true).length;
+const dziennik = pages.where(p => p.emocje != null).length;
+const avgSen = pages.array().map(p => p.sen || 0).filter(x => x > 0).reduce((a,b) => a+b, 0) / pages.length || 0;
+
+// 3. Funkcja pomocnicza do statusów (ikonki)
+const getStatus = (aktualny, cel) => {
+    const ratio = aktualny / cel;
+    if (ratio >= 0.9) return "🟢";
+    if (ratio >= 0.6) return "🟡";
+    return "🔴";
+};
+
+// 4. Budowa tabeli
+dv.table(
+    ["Cel", "Status", "Postęp (30 dni)", "Wartość / Średnia"],
+    [
+        [
+            "Trening (cel: 15/msc)", 
+            getStatus(treningi, 15), 
+            `<progress value="${treningi}" max="15"></progress>`, 
+            `${treningi} / 15`
+        ],
+        [
+            "Rozciąganie (codziennie)", 
+            getStatus(rozciaganie, 30), 
+            `<progress value="${rozciaganie}" max="30"></progress>`, 
+            `${rozciaganie} / 30`
+        ],
+        [
+            "Sen (cel: > 7/10)", 
+            avgSen >= 7 ? "🟢" : (avgSen >= 5 ? "🟡" : "🔴"), 
+            `<progress value="${avgSen}" max="10"></progress>`, 
+            `${avgSen.toFixed(1)} / 10`
+        ],
+        [
+            "Dziennik emocji", 
+            getStatus(dziennik, 30), 
+            `<progress value="${dziennik}" max="30"></progress>`, 
+            `${dziennik} / 30`
+        ]
+    ]
+);
+```
 
 ---
 
@@ -60,7 +105,7 @@ dv.paragraph(`
 ### Ostatnie Obserwacje
 ```dataview
 LIST emocje
-FROM "06 Daily Notes"
+FROM "06 Daily Notes/2025/12 Grudzień"
 WHERE emocje != null
 SORT file.day DESC
 LIMIT 7

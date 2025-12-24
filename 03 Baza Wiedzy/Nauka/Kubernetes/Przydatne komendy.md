@@ -40,19 +40,19 @@ kubectl create deployment nginx --image=nginx --replicas=4
 
 You can also scale a deployment using the
 
-```
+```bash
 kubectl scale
 ```
 
 command.
 
-```
-kubectl scale deployment nginx--replicas=4
+```bash
+kubectl scale deployment nginx --replicas=4
 ```
 
 **Another way to do this is to save the YAML definition to a file and modify**
 
-```
+```bash
 kubectl create deployment nginx --image=nginx --dry-run=client -o yaml > nginx-deployment.yaml
 ```
 
@@ -62,7 +62,7 @@ You can then update the YAML file with the replicas or any other field before cr
 
 **Create a Service named redis-service of type ClusterIP to expose pod redis on port 6379**
 
-```
+```bash
 kubectl expose pod redis --port=6379 --name redis-service --dry-run=client -o yaml
 ```
 
@@ -70,7 +70,7 @@ kubectl expose pod redis --port=6379 --name redis-service --dry-run=client -o ya
 
 Or
 
-```
+```bash
 kubectl create service clusterip redis --tcp=6379:6379 --dry-run=client -o yaml 
 ```
 

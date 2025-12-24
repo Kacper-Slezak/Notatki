@@ -29,7 +29,7 @@ TABLE
   firma AS "Firma",
   stanowisko AS "Stanowisko",
   status AS "Status"
-FROM "02 Obszary/Oferty Pracy/Rekrutacje"
+FROM "02 Obszary/Kariera/Oferty Pracy/Rekrutacje"
 WHERE typ = "rekrutacja"
 SORT status ASC
 ```
@@ -42,9 +42,9 @@ SORT status ASC
 ##  Nauka (Checklist)
 ```dataview
 TASK
-FROM "02 Obszary/Ścieżka Kariery/RoadMapy/Checklist"
+FROM "02 Obszary/Kariera/Ścieżka Kariery/RoadMapy/Checklist"
 WHERE !completed
-LIMIT 10
+LIMIT 20
 ```
 
 ---

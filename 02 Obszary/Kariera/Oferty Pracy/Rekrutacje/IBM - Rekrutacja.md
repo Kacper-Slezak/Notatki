@@ -4,21 +4,24 @@ firma: IBM
 stanowisko: SRE
 status: Oczekiwanie na ofertę
 data: 2025-12-08
+link:
 ---
-
-#  IBM - Rekrutacja
+# IBM - Rekrutacja
 
 ##  Informacje o roli
-- **Firma:** [[Firmy|IBM]]
-- **Stanowisko:** 
-- **Widełki:** 
-- **Link do oferty:** 
-##  Przebieg procesu (Etapy)
+- **Firma:** `$= dv.current().firma` 
+- **Stanowisko:** `$= dv.current().stanowisko` 
+- **Link:** [Ogłoszenie](`$= dv.current().link)`
 
+---
+
+##  Przebieg procesu (Etapy)
 - [ ] 1. Screening HR (Data: )
 - [ ] 2. Rozmowa techniczna (Data: )
 - [ ] 3. Zadanie rekrutacyjne / Live coding
 - [ ] 4. Culture Fit / Manager
+
+
 
 ##  Pytania z rozmowy
 
@@ -35,7 +38,9 @@ data: 2025-12-08
 - "Twój największy błąd techniczny?" -> 
 
 ##  Moje wnioski (Post-mortem)
-- **Co poszło dobrze:** - **Nad czym muszę popracować:** - **Czy podoba mi się zespół/projekt?** 
+- **Co poszło dobrze:** 
+- **Nad czym muszę popracować:** 
+- **Czy podoba mi się zespół/projekt?** 
 ##  Powiązania
 - [[Firmy]]
 - [[Master Roadmap 2024/25]]

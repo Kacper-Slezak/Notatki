@@ -1,14 +1,14 @@
 ---
 typ: MOC
-temat:
-status:
+temat: python
+status: aktywny
 data: 2025-12-23
 ---
 
-#  Linux MOC
+#  Python MOC
 
 > [!info] Opis
-> Krótki opis czego dotyczy ten obszar wiedzy i dlaczego jest ważny w Twojej ścieżce DevOps.
+> Ta wiedza będzie dotyczyłą obszaru automatyzacja pythonowej oraz wszytskeig ozwiaznaego z Pythonem dla SRE/DevOps
 
 ---
 
@@ -19,11 +19,10 @@ data: 2025-12-23
 ---
 
 ##  Projekty / Zastosowanie
-- [[projekt-X]] - Gdzie wykorzystujesz tę wiedzę (np. SOTP).
+- [[Automatyzacja]] - Będzie to zbió mini projektó edukacyjnych 
 
 ---
 
 ##  Narzędzia i Linki
 - [Link zewnętrzny](URL)
-- [[Źródła nauki Linux]]
 - [[Inne MOC]] - Powiązane obszary wiedzy
