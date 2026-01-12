@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Prepers/Źródła wiedzy PPP.md",
+                "file": "06 Codzienne Notatki/2025/12 Grudzień/2026-01-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Źródła wiedzy PPP"
+              "title": "2026-01-12"
             }
           }
         ]
@@ -201,10 +201,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "60df0e6714b423b9",
+  "active": "a0f944e194e26495",
   "lastOpenFiles": [
-    "03 Baza Wiedzy/Prepers/Bez nazwy 1.md",
+    "06 Codzienne Notatki/2025/12 Grudzień/2026-01-11.md",
+    "06 Codzienne Notatki/2025/12 Grudzień/2026-01-12.md",
     "03 Baza Wiedzy/Prepers/Źródła wiedzy PPP.md",
+    "03 Baza Wiedzy/Prepers/Bez nazwy 1.md",
     "03 Baza Wiedzy/Prepers/Bez nazwy.md",
     "01 Projekty/Ops Automatization/Automatyzacja.md",
     "06 Codzienne Notatki/2025/12 Grudzień/2025-12-21.md",
@@ -230,8 +232,6 @@
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Bez nazwy.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Node Selectors.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Node Affinity.md",
-    "05 Szablony/Nowa Notatka Techniczna.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
     "02 Obszary/Zdrowie/Bez nazwy",
     "07 Przeglądy Tygodniowe",
