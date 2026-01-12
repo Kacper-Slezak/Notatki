@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fad3486387c3c4cf",
+        "id": "3a7b178a6fc3f30c",
         "type": "tabs",
         "children": [
           {
-            "id": "b20ace6ddb782f88",
+            "id": "4e69c37fc3b2db93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Obszary/Blog/Wpisy/Agla Alef Recenzja.md",
+                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Istio Koncept.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agla Alef Recenzja"
+              "title": "Istio Koncept"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
-      "graph:Otwórz graf": false,
       "canvas:Stwórz nową tablicę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
@@ -201,10 +201,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b20ace6ddb782f88",
+  "active": "60df0e6714b423b9",
   "lastOpenFiles": [
-    "05 Szablony/Szablon Bloga.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Service Mesh.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Istio Koncept.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Istio",
+    "01 Projekty/Inżynierka/Plan Działania.md",
+    "01 Projekty/Inżynierka/Plan Inżynierki.md",
+    "01 Projekty/Inżynierka/Emaile.md",
     "02 Obszary/Blog/Wpisy/Agla Alef Recenzja.md",
+    "01 Projekty/Inżynierka",
+    "05 Szablony/Szablon Bloga.md",
     "02 Obszary/Blog/Wpisy/Droga do mobliności 12.01.2026.md",
     "02 Obszary/Blog/Pomysły na wpisy.md",
     "02 Obszary/Blog/Wpisy/Produktywność.md",
@@ -227,18 +234,11 @@
     "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/`$=.md",
     "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/Tutaj podlinkuj notatkę z nauki.md",
     "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
-    "Dashboards/Główny.md",
-    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-24.md",
-    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-23.md",
-    "03 Baza Wiedzy/Nauka/Linux MOC.md",
-    "03 Baza Wiedzy/Nauka/Linux/Źródła nauki Linux.md",
     "03 Baza Wiedzy/Nauka/Python",
     "01 Projekty/Ops Automatization",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
     "02 Obszary/Zdrowie/Bez nazwy",
     "07 Przeglądy Tygodniowe",
-    "Dashboards",
-    "06 Codzienne Notatki/2026",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",
