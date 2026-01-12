@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0f944e194e26495",
+            "id": "b20ace6ddb782f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Codzienne Notatki/2025/12 Grudzień/2026-01-12.md",
+                "file": "02 Obszary/Blog/Wpisy/Agla Alef Recenzja.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-12"
+              "title": "Agla Alef Recenzja"
             }
           }
         ]
@@ -201,10 +201,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a0f944e194e26495",
+  "active": "b20ace6ddb782f88",
   "lastOpenFiles": [
-    "06 Codzienne Notatki/2025/12 Grudzień/2026-01-11.md",
-    "06 Codzienne Notatki/2025/12 Grudzień/2026-01-12.md",
+    "05 Szablony/Szablon Bloga.md",
+    "02 Obszary/Blog/Wpisy/Agla Alef Recenzja.md",
+    "02 Obszary/Blog/Wpisy/Droga do mobliności 12.01.2026.md",
+    "02 Obszary/Blog/Pomysły na wpisy.md",
+    "02 Obszary/Blog/Wpisy/Produktywność.md",
+    "06 Codzienne Notatki/2026/01 Styczeń/2026-01-11.md",
+    "02 Obszary/Blog/Pomysły na serie wpisów.md",
+    "02 Obszary/Blog/Wpisy",
+    "06 Codzienne Notatki/2026/01 Styczeń/2026-01-12.md",
+    "06 Codzienne Notatki/2026/01 Styczeń",
     "03 Baza Wiedzy/Prepers/Źródła wiedzy PPP.md",
     "03 Baza Wiedzy/Prepers/Bez nazwy 1.md",
     "03 Baza Wiedzy/Prepers/Bez nazwy.md",
@@ -224,21 +232,13 @@
     "06 Codzienne Notatki/2025/12 Grudzień/2025-12-23.md",
     "03 Baza Wiedzy/Nauka/Linux MOC.md",
     "03 Baza Wiedzy/Nauka/Linux/Źródła nauki Linux.md",
-    "03 Baza Wiedzy/Nauka/Linux/Bez nazwy.md",
     "03 Baza Wiedzy/Nauka/Python",
-    "03 Baza Wiedzy/Nauka/Python MOC.md",
     "01 Projekty/Ops Automatization",
-    "01 Projekty/Bez nazwy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Bez nazwy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Node Selectors.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
     "02 Obszary/Zdrowie/Bez nazwy",
     "07 Przeglądy Tygodniowe",
     "Dashboards",
     "06 Codzienne Notatki/2026",
-    "06 Codzienne Notatki/2025/12 Grudzień",
-    "06 Codzienne Notatki/2025",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",

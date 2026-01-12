@@ -8,6 +8,7 @@
     - [x] **Recenzja _Problemu Trzech Ciał_**: Bez-spoilerów, Spoilerowa 
         
     - **Recenzja _Pierwszego Prawa_**: Recenzja każdej z książek, dodatkowo: omówienie świata, postaci i motywów, które sprawiają, że seria jest tak wciągająca.
+    - **Recenzja _Agla Alef_** - Recenzja Bez Spojlerowa i Dodatek spojelerowy 
         
 - **Seria: Lekcje z Fantastyki**
     

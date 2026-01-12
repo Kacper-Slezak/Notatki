@@ -18,6 +18,7 @@
 2. **Projekt Gotowość** - seria o przygotowaniu się na zagrożenia i działanie w czasie zagrożeń
 3. **Umiejętność X czasu** - co jakiś X okres czasu stawiam za cel naukę jakieś przydatnej umiejętności i opisuje proces, problemy, czas, wyniki, koszty
 4. **Projekt Nóż** - rzemiosło robienia noża postępy prace lub innego rękodzieła 
+5. **Droga do mobliności** - opis na bieżąco mojej ścieżki poprawy rozciągliwości i mobilności
 ## Połączone:
 1. **Ekonomia w fikcji** - przykłady ekonomii, biznesów w książkach fikcyjnych dogłębna analiza
 2. **Cyfrowa Twierdza Inwestora** - uszczegółowienie Bezpieczeństwa z myślą o inwestorach - klucze, 2FA, rozpoznawanie pishingu 
