@@ -1,5 +1,8 @@
 # Plan Treningowy (Luty-Lipiec)
 
+
+![[Pasted image 20260126122315.png]]
+
 ## Bieganie (3x/tyg)
 - Pon/Śr/Pt: 30-50 min
 - Trening: 

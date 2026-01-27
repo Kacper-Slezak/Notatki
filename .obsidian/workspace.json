@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a7b178a6fc3f30c",
+        "id": "d30c86b5479cf64a",
         "type": "tabs",
         "children": [
           {
-            "id": "4e69c37fc3b2db93",
+            "id": "f41f77cc4fd173e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Istio Koncept.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Istio Koncept"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -95,93 +81,123 @@
     "type": "split",
     "children": [
       {
-        "id": "7c051e4cd553ebeb",
-        "type": "tabs",
+        "id": "d384643c9490f2c3",
+        "type": "split",
         "children": [
           {
-            "id": "16677dea41925158",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "60df0e6714b423b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "4361949befc6a5bd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 Obszary/Oferty Pracy/Firmy.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+            "id": "7c051e4cd553ebeb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "16677dea41925158",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
               },
-              "icon": "links-coming-in",
-              "title": "Linki zwrotne do Firmy"
-            }
+              {
+                "id": "60df0e6714b423b9",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                },
+                "group": "b0ec4348baa5cd18"
+              },
+              {
+                "id": "4361949befc6a5bd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Linki zwrotne do Firmy"
+                }
+              },
+              {
+                "id": "f233b3c5baaf0c83",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Łącza wychodzące z Firmy"
+                }
+              },
+              {
+                "id": "13287ecbea55316d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tagi"
+                }
+              },
+              {
+                "id": "4552bbca2afc53d1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Konspekt"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "f233b3c5baaf0c83",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 Obszary/Oferty Pracy/Firmy.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Łącza wychodzące z Firmy"
-            }
-          },
-          {
-            "id": "13287ecbea55316d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tagi"
-            }
-          },
-          {
-            "id": "4552bbca2afc53d1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Konspekt"
-            }
+            "id": "dc984fc2a35c919e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "06a7dd87f7ac2a6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01 Projekty/SOTP/20 Architektura/Bez nazwy.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Konspekt Bez nazwy"
+                },
+                "group": "b0ec4348baa5cd18"
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "vertical"
       }
     ],
     "direction": "horizontal",
@@ -197,14 +213,20 @@
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open today": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "60df0e6714b423b9",
+  "active": "1b81045584c5f992",
   "lastOpenFiles": [
-    "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Service Mesh.md",
+    "06 Codzienne Notatki/2026/01 Styczeń/2026-01-26.md",
+    "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
+    "Bez nazwy.md",
+    "01 Projekty/SOTP/20 Architektura/Bez nazwy.md",
+    "01 Projekty/SOTP/10 Planowanie/Beyoned Faza 5.md",
+    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
+    "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Istio Koncept.md",
+    "03 Baza Wiedzy/Nauka/Kubernetes/Istio/Service Mesh.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Istio",
     "01 Projekty/Inżynierka/Plan Działania.md",
     "01 Projekty/Inżynierka/Plan Inżynierki.md",
@@ -228,12 +250,6 @@
     "03 Baza Wiedzy/Prepers",
     "Dashboards/Kariera Dashboard.md",
     "02 Obszary/Kariera/Ścieżka Kariery/RoadMapy/Checklist.md",
-    "Dashboards/Wellbeing Dashboard.md",
-    "06 Codzienne Notatki/2025/12 Grudzień/2025-12-22.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/`$=.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/Tutaj podlinkuj notatkę z nauki.md",
-    "02 Obszary/Kariera/Ścieżka Kariery/Master Hub - DevOps & Kariera.md",
     "03 Baza Wiedzy/Nauka/Python",
     "01 Projekty/Ops Automatization",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
