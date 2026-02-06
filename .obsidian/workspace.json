@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Nauka/Bash/README.md",
+                "file": "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Wymagania i Role"
             }
           }
         ]
@@ -198,13 +198,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01 Projekty/SOTP/20 Architektura/Bez nazwy.md",
+                    "file": "01 Projekty/SOTP/20 Architektura/UML.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt Bez nazwy"
+                  "title": "Konspekt UML"
                 },
                 "group": "b0ec4348baa5cd18"
               }
@@ -233,6 +233,20 @@
   },
   "active": "f41f77cc4fd173e1",
   "lastOpenFiles": [
+    "01 Projekty/SOTP/10 Planowanie/Roadmapa i Fazy.md",
+    "01 Projekty/SOTP/10 Planowanie/Beyoned Faza 5.md",
+    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
+    "01 Projekty/SOTP/99 Zasoby/Biznes notatka.md",
+    "01 Projekty/SOTP/99 Zasoby/Projekt 2.md",
+    "01 Projekty/SOTP/30 Technologie/Stack Technologiczny.md",
+    "01 Projekty/SOTP/20 Architektura/UML.md",
+    "01 Projekty/SOTP/20 Architektura/Struktura Repozytorium.md",
+    "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
+    "01 Projekty/SOTP/00 SOTP Dashboard.md",
+    "01 Projekty/SOTP/99 Zasoby/Roadmap.md",
+    "01 Projekty/SOTP/99 Zasoby/Zasady_i_role.md",
+    "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
+    "03 Baza Wiedzy/Nauka/Bash/README.md",
     "03 Baza Wiedzy/Nauka/Docker/Podstawy komend Docker.md",
     "03 Baza Wiedzy/Nauka/Docker/Docker Compose.md",
     "03 Baza Wiedzy/Nauka/Docker/Docker.md",
@@ -245,20 +259,6 @@
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Labels and Selector.md",
     "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Services.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ResourceQuota.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Replications-Controller.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/ReplicaSet.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Pod.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node-Controller.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Node.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Namespaces.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Master Node.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/kubelet.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kubectl apply.md",
-    "03 Baza Wiedzy/Nauka/K8s MOC.md",
-    "03 Baza Wiedzy/Nauka/Linux MOC.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Kube Controller Manager.md",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "03 Baza Wiedzy/Nauka/Kubernetes/Istio",
