@@ -4,8 +4,6 @@ technologia:
 status: nowa
 data: 2025-12-21
 ---
----
-
 # Kubectl apply
 
 ##  Co to jest? 
