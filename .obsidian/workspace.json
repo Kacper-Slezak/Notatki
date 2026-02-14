@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
+                "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wymagania i Role"
+              "title": "SOTP Master Document v3.5"
             }
           }
         ]
@@ -120,8 +120,7 @@
                   "state": {},
                   "icon": "git-pull-request",
                   "title": "Source Control"
-                },
-                "group": "b0ec4348baa5cd18"
+                }
               },
               {
                 "id": "4361949befc6a5bd",
@@ -198,15 +197,14 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01 Projekty/SOTP/20 Architektura/UML.md",
+                    "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt UML"
-                },
-                "group": "b0ec4348baa5cd18"
+                  "title": "Konspekt SOTP Master Document v3.5"
+                }
               }
             ]
           }
@@ -233,19 +231,19 @@
   },
   "active": "f41f77cc4fd173e1",
   "lastOpenFiles": [
+    "01 Projekty/SOTP/99 Zasoby/Zasady_i_role.md",
+    "01 Projekty/SOTP/00 SOTP Dashboard.md",
+    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
+    "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
     "01 Projekty/SOTP/10 Planowanie/Roadmapa i Fazy.md",
     "01 Projekty/SOTP/10 Planowanie/Beyoned Faza 5.md",
-    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
     "01 Projekty/SOTP/99 Zasoby/Biznes notatka.md",
     "01 Projekty/SOTP/99 Zasoby/Projekt 2.md",
     "01 Projekty/SOTP/30 Technologie/Stack Technologiczny.md",
     "01 Projekty/SOTP/20 Architektura/UML.md",
     "01 Projekty/SOTP/20 Architektura/Struktura Repozytorium.md",
     "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
-    "01 Projekty/SOTP/00 SOTP Dashboard.md",
     "01 Projekty/SOTP/99 Zasoby/Roadmap.md",
-    "01 Projekty/SOTP/99 Zasoby/Zasady_i_role.md",
-    "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
     "03 Baza Wiedzy/Nauka/Bash/README.md",
     "03 Baza Wiedzy/Nauka/Docker/Podstawy komend Docker.md",
     "03 Baza Wiedzy/Nauka/Docker/Docker Compose.md",

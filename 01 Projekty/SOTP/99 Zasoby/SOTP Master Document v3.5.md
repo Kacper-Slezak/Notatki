@@ -675,11 +675,11 @@ sotp/
 
 **4.1 Kolektor SSH (Netmiko) (5 dni)**
 
-- **Odpowiedzialny:** Osoba 3 (Logika Kolektora) i Osoba 4 (Endpoint API)
+- **Odpowiedzialny:** Osoba 3 (Logika Kolektora) i Osoba 4 (Endpoint API) i Osoba 2 (Frontend)
     
 - **Zadania (Osoba 3):** Implementacja `SSHCollector` (`netmiko`) i parserów `TextFSM`.
     
-- **Zadania (Osoba 4):** Stworzenie endpointu API `POST .../execute` (z białą listą poleceń), kolejkowanie przez Celery, zwracanie sparsowanego JSON.
+	- **Zadania (Osoba 4):** Stworzenie endpointu API `POST .../execute` (z białą listą poleceń), kolejkowanie przez Celery, zwracanie sparsowanego JSON.
     
 - **Zadanie (Osoba 2):** Stworzenie zakładki "Konsola" w UI.
     
