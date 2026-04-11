@@ -1,0 +1,22 @@
+- Buty górskie
+- WiatrówkaN
+- Plecak - wyposażenie:
+	- Śpiwór okolo 5  stopni komfort
+	- Mata samopompujaca
+	- Poduszka
+	- mata do lezenia/ siedzenia
+	- Opinel Zestaw lyżka widelec
+	- Apteczka 
+	- Filtry do wody
+	- Mora knife
+	- pracord
+	- Zapalnicz + Krzesiwo/Zapałki sztomrowe
+	- Worki wodoodporne
+	- Czołówka
+	- Ręcznik mikrofibra
+	- Merino Skarpety
+	- Karabinki
+	- Kubek
+- Kurs Samoobrony
+- Wycieczka?
+- 

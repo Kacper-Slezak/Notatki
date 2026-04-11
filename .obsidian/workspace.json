@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d30c86b5479cf64a",
+        "id": "3661ce49c7fabdb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f41f77cc4fd173e1",
+            "id": "e469a37a39b37b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
+                "file": "02 Obszary/Relacje/Prezenty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SOTP Master Document v3.5"
+              "title": "Prezenty"
             }
           }
         ]
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                    "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Linki zwrotne do Firmy"
+                  "title": "Linki zwrotne do SOTP Master Document v3.5"
                 }
               },
               {
@@ -176,12 +176,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "02 Obszary/Relacje/Prezenty.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt"
+                  "title": "Konspekt Prezenty"
                 }
               }
             ],
@@ -197,13 +198,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
+                    "file": "02 Obszary/Relacje/Prezenty.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt SOTP Master Document v3.5"
+                  "title": "Konspekt Prezenty"
                 }
               }
             ]
@@ -229,34 +230,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f41f77cc4fd173e1",
+  "active": "60df0e6714b423b9",
   "lastOpenFiles": [
-    "01 Projekty/SOTP/99 Zasoby/Zasady_i_role.md",
-    "01 Projekty/SOTP/00 SOTP Dashboard.md",
-    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
-    "01 Projekty/SOTP/10 Planowanie/Wymagania i Role.md",
-    "01 Projekty/SOTP/10 Planowanie/Roadmapa i Fazy.md",
-    "01 Projekty/SOTP/10 Planowanie/Beyoned Faza 5.md",
-    "01 Projekty/SOTP/99 Zasoby/Biznes notatka.md",
-    "01 Projekty/SOTP/99 Zasoby/Projekt 2.md",
-    "01 Projekty/SOTP/30 Technologie/Stack Technologiczny.md",
-    "01 Projekty/SOTP/20 Architektura/UML.md",
-    "01 Projekty/SOTP/20 Architektura/Struktura Repozytorium.md",
+    "01 Projekty/Inżynierka/Plan Inżynierki.md",
+    "02 Obszary/Relacje/Prezenty.md",
+    "01 Projekty/Inżynierka/Plan Działania.md",
+    "01 Projekty/Inżynierka/Emaile.md",
+    "01 Projekty/Koło naukowe/Opcje oblicznia lokalizacji.md",
+    "02 Obszary/Kariera/Ścieżka Kariery/Moja Ścieżka DevOps 2025-2028.md",
+    "01 Projekty/Koło naukowe",
+    "Master Roadmap 2024/25.md",
+    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
+    "Master Roadmap 2024",
+    "Dashboards/Wellbeing Dashboard.md",
+    "Dashboards/Kariera Dashboard.md",
+    "Dashboards/Główny.md",
+    "05 Szablony/Szablon Codzinna Notatka.md",
+    "05 Szablony/Szablon Codzinna Notatka 2.md",
+    "02 Obszary/Finanse/Budżet - miesięczny.md",
+    "02 Obszary/Zdrowie/Trening - Plan.md",
+    "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
+    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+    "02 Obszary/Hobby/HomeLab - Setup i Plany.md",
+    "02 Obszary/Hobby/Hobby - Mapa i Priorytety.md",
+    "02 Obszary/Kariera/Ścieżka Kariery/Nauka - Harmonogram Tygodniowy.md",
+    "02 Obszary/Finanse/Strategia FIRE.md",
+    "02 Obszary/Finanse/Zakupy - Kolejka Priorytetów.md",
     "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
-    "01 Projekty/SOTP/99 Zasoby/Roadmap.md",
-    "03 Baza Wiedzy/Nauka/Bash/README.md",
-    "03 Baza Wiedzy/Nauka/Docker/Podstawy komend Docker.md",
-    "03 Baza Wiedzy/Nauka/Docker/Docker Compose.md",
-    "03 Baza Wiedzy/Nauka/Docker/Docker.md",
-    "03 Baza Wiedzy/Nauka/Linux/Źródła nauki Linux.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Imperative vs Declarative.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Kubernetes Core Concepts.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Przydatne komendy.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Node Selectors.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Node Affinity.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Manulne Scheduling.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie/Labels and Selector.md",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Elementy/Worker Nodes.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Observability.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/CICD.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/AWS.md",
+    "01 Projekty/FIRE/DevOps",
+    "01 Projekty/FIRE/DevOps/Umiejętności",
+    "01 Projekty/FIRE",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "03 Baza Wiedzy/Nauka/Kubernetes/Istio",
@@ -264,11 +270,6 @@
     "02 Obszary/Blog/Wpisy",
     "06 Codzienne Notatki/2026/01 Styczeń",
     "03 Baza Wiedzy/Prepers",
-    "03 Baza Wiedzy/Nauka/Python",
-    "01 Projekty/Ops Automatization",
-    "03 Baza Wiedzy/Nauka/Kubernetes/Planowanie",
-    "02 Obszary/Zdrowie/Bez nazwy",
-    "07 Przeglądy Tygodniowe",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110345.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251212232916.png",

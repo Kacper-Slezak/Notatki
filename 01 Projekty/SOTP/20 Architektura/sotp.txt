@@ -1,0 +1,41 @@
+sotp/
+├── .env                              # Główne zmienne środowiskowe (hasła, URLe do baz)
+├── docker-compose.yml                # Główny plik uruchamiający CAŁE środowisko (DB, Redis, API, Worker, UI)
+│
+└── apps/
+    │
+    ├── web-frontend/                 # === 1. INTERFEJS UŻYTKOWNIKA (Next.js) ===
+    │   ├── Dockerfile
+    │   ├── package.json
+    │   └── src/
+    │       ├── app/                  # Widoki (strony) np. /devices, /dashboard
+    │       ├── components/           # Komponenty React (tabele, wykresy)
+    │       └── lib/                  # Zapytania HTTP do core_backend (axios/fetch)
+    │
+    ├── core_backend/                 # === 2. GŁÓWNE API I ZARZĄDZANIE (FastAPI) ===
+    │   ├── Dockerfile
+    │   ├── requirements.txt
+    │   ├── alembic.ini               # Ustawienia migracji bazy danych
+    │   ├── alembic/                  # SKRYPTY MIGRACYJNE (tylko backend tworzy/edytuje tabele!)
+    │   │   └── versions/
+    │   └── app/
+    │       ├── main.py               # Punkt startowy FastAPI
+    │       ├── api/                  # Endpointy REST (np. /api/v1/devices, /api/v1/metrics)
+    │       ├── db/                   # Sesje SQLAlchemy (postgres_session.py, timescale_session.py)
+    │       ├── models/               # PEŁNE MODELE ORM (Device, User, AuditLog)
+    │       ├── schemas/              # Modele Pydantic (walidacja danych z/do API)
+    │       └── tasks/
+    │           ├── celery_app.py     # Konfiguracja kolejki dla API
+    │           └── celery_beat.py    # Odpytuje inwentarz o IP i krzyczy do Redisa: "Spinguj to!"
+    │
+    └── network-worker/               # === 3. "ROBOL" OD SIECI (Celery Worker) ===
+        ├── Dockerfile
+        ├── requirements.txt
+        └── src/
+            ├── celery_app.py         # Konfiguracja workera (tylko nasłuchiwanie na Redisa)
+            ├── core/
+            │   ├── config.py         # Czytanie zmiennych z .env (URL do Redisa i TimescaleDB)
+            │   └── db_connection.py  # TYLKO jedno połączenie (create_engine) dla szybkich Insertów
+            └── tasks/
+                ├── monitoring_tasks.py # Skrypt ICMP + czysty SQL Insert do TimescaleDB
+                └── snmp_collector.py   # Skrypt SNMP + czysty SQL Insert do TimescaleDB

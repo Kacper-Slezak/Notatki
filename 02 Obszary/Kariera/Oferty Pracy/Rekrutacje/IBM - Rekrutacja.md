@@ -16,11 +16,10 @@ link:
 ---
 
 ##  Przebieg procesu (Etapy)
-- [ ] 1. Screening HR (Data: )
-- [ ] 2. Rozmowa techniczna (Data: )
-- [ ] 3. Zadanie rekrutacyjne / Live coding
-- [ ] 4. Culture Fit / Manager
-
+- [ ] 0. Zadanie rekrutacyjne - 2 zadanie leetcode
+- [ ] 1. Screening HR - 15 min rozmowy po Angielsku
+- [ ] 2. Test wielokrotny wybór
+- [ ] 3. Rozmowa techniczna - 1h godzina rozmowy z trzema seniorami 
 
 
 ##  Pytania z rozmowy

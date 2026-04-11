@@ -214,3 +214,51 @@ W dniu 24.11.2025 o 14:02, Kacper Ślęzak pisze:
 > 2.  Scenariusz modyfikacji 1.3: Badamy, czy da się wpłynąć na wybór parametrów wewnątrz mTLS 1.3.  
 > 3.  Scenariusz "IoT" (mTLS 1.2): Wymuszamy mTLS 1.2 i słabszy szyfr, sprawdzając, czy pozwoli to odciążyć zasoby (np. CPU).  
 > 4.  Opcjonalnie: Badamy narzut polityk autoryzacyjnych (np. STRICT vs ALLOW-ALL).
+## Re: Praca Inżynierska[](https://poczta.agh.edu.pl/rcm-1.5/?_task=mail&_action=show&_uid=2134&_mbox=INBOX "Otwórz w nowym oknie")
+
+
+
+Od [Artur Lasoń](mailto:alason@agh.edu.pl "alason@agh.edu.pl") w dniu 26.02.2026 11:38
+
+[Szczegóły](https://poczta.agh.edu.pl/rcm-1.5/?_task=mail&_caps=pdf%3D1%2Cflash%3D0%2Ctiff%3D0%2Cwebp%3D1%2Cpgpmime%3D0&_uid=2134&_mbox=INBOX&_framed=1&_action=preview#headers) [Nagłówki](https://poczta.agh.edu.pl/rcm-1.5/?_task=mail&_caps=pdf%3D1%2Cflash%3D0%2Ctiff%3D0%2Cwebp%3D1%2Cpgpmime%3D0&_uid=2134&_mbox=INBOX&_framed=1&_action=preview#all-headers)
+
+Panie Kacprze,  
+Mocno idzie Pan do przodu - super!  
+  
+ad.1 Nigdy nie używaliśmy fortio. Do tej pory większość prac robimy na K6 - jest fajnie zintegrowane z Prometheusem i Grfaną. Ogarnięcie tych narzędzi jest też fajne samo w sobie - są to czeste rozwiązania produkcyjne. fortio - fajnie byłoby zobaczyć czym to jest, poznać nowe narzędzie (z mojego punktu widzenia). Decyzję zostawiam Panu.  
+  
+ad.2 Idealne dwa scenariusze - różna granularność - może różne wyniki. Róbmy obydwa przypadki.  
+  
+ad.3 Zdecydowanie zacznijmy od minimal, potem możemy się zastanawiać, dokładać zadania logowania ruchu, na razie minimal (ewentualnie default).  
+  
+ad.4 Na razie klient-server. Wprowadzenie aplikacji jest fajne, pokazuje realny scenariusz ale może mieć wpływ na wyniki. Skąd będziemy wiedzieć czy badamy wydajność klastra czy wydajność aplikacji? Pierwsze wyniki zobaczmy w najprostszym scenariuszu.  
+  
+Jak Panu idzie różnicowanie konfiguracji Envoya, coś udało się z szyframi, z autoryzacją?  
+  
+PZDR  
+AL  
+  
+W dniu 26.02.2026 o 10:13, Kacper Ślęzak pisze:
+
+> Panie Doktorze,  
+>   
+>      Zwracam się do Pana po dłuższej przerwie. Chciałbym przeprosić za brak kontaktu w ostatnich miesiącach. Ze względu na obciążenie sesją nie miałem wielu postępów w pracy. Czas ten poświęciłem na uzupełnienie wiedzy zakupiłem i realizuje kurs Kubernetesa oraz Istio. Chciałem mieć pewność, że przystępując do badań, będę dobrze rozumiał jak wszystko dokładnie działa.  
+>   
+>      Jeśli chodzi o bezpośrednie postępy w pracy. Wstępnie skonfigurowałem klaster (opartego na k3d) i przetestowałem narzędzia do generowania ruchu. Zanim jednak przystąpię do pomiarów, chciałbym skonsultować z Panem cztery kwestie:  
+>   
+> 1. Wybór narzędzia testowego:  
+>      Do obciążania klastra i zbierania wyników narazie próbowałem korzystac z narzędzia fortio. Czy z Pana perspektywy to dobry wybór, czy preferuje Pan inne rozwiązanie?  
+>   
+> 2. Charakterystyka ruchu:  
+>      Zastanawiam się, jaki rodzaj ruchu najlepiej uwydatni narzut wprowadzany przez algorytmy kryptograficzne Envoy'a. Czy powinniśmy skupić się na dużej liczbie zapytań o minimalnym rozmiarze , czy na mniejszej liczbie zapytań, ale z dużym ładunkiem danych? A może warto uwzględnić oba te scenariusze w pracy?  
+>   
+> 3. Profil instalacji Istio:  
+>      W tutorialach powszechny jest profil demo, który ma włączone śledzenie (tracing) zapytań i bogate logowanie. Jednak jest on odradzany w testach wydajnościowych. Zastanawiam się natomiast nad wyborem między profilem default a minimal - ten pierwszy instaluje dodatkowo bramy wejściowe/wyjściowe (Ingress/Egress), podczas gdy drugi dostarcza absolutne minimum. Który z nich uważa Pan za lepszy z punktu widzenia poprawności naszych badań?  
+>   
+> 4. Struktura aplikacji testowej:  
+>      W moich wstępnych próbach testowałem prosty układ Client-Server. Jednak wydaje mi się oczywistę, że to zbyt porstę rozwiązanie. Rozważałem wykorzystanie standardowej aplikacji mikroserwisowej Bookinfo, gdzie jedno zapytanie przechodzi przez kilka usług. Jest to aplikacja dostarczana przez Istio.  
+>   
+> Będę bardzo wdzięczny za Pana opinię i wskazówki.  
+> Z poważaniem,  
+> Kacper Ślęzak  
+> 422843
