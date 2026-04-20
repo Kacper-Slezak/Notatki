@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ef0854f6fd7996",
+        "id": "f4fba8288815d6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "62f007af308ecaeb",
+            "id": "aca58baf9455b550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Codzienne Notatki/2026/01 Styczeń/2026-04-20.md",
+                "file": "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-20"
+              "title": "Post Kwantowe - kodowanie"
             }
           }
         ]
@@ -198,13 +198,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "06 Codzienne Notatki/2026/01 Styczeń/2026-04-20.md",
+                    "file": "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt 2026-04-20"
+                  "title": "Konspekt Post Kwantowe - kodowanie"
                 }
               }
             ]
@@ -230,16 +230,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62f007af308ecaeb",
+  "active": "aca58baf9455b550",
   "lastOpenFiles": [
-    "01 Projekty/Inżynierka/Draft.md",
+    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
+    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
+    "01 Projekty/Inżynierka/Plan Działania.md",
+    "02 Obszary/Kariera/Ścieżka Kariery/RoadMapy/Checklist.md",
+    "Dashboards/Kariera Dashboard.md",
+    "03 Baza Wiedzy/Nauka/Docker MOC.md",
     "06 Codzienne Notatki/2026/01 Styczeń/2026-04-20.md",
-    "01 Projekty/Inżynierka/Bez nazwy.md",
+    "06 Codzienne Notatki/2026/01 Styczeń/Bez nazwy.md",
+    "01 Projekty/Inżynierka/Draft.md",
     "01 Projekty/Klasyfikator pakietów/Sniffer - podejścia do etykietowania.md",
     "01 Projekty/Klasyfikator pakietów",
     "02 Obszary/Relacje/Prezenty.md",
     "01 Projekty/Inżynierka/Plan Inżynierki.md",
-    "01 Projekty/Inżynierka/Plan Działania.md",
     "01 Projekty/Inżynierka/Emaile.md",
     "01 Projekty/Koło naukowe/Opcje oblicznia lokalizacji.md",
     "02 Obszary/Kariera/Ścieżka Kariery/Moja Ścieżka DevOps 2025-2028.md",
@@ -248,7 +253,6 @@
     "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
     "Master Roadmap 2024",
     "Dashboards/Wellbeing Dashboard.md",
-    "Dashboards/Kariera Dashboard.md",
     "Dashboards/Główny.md",
     "05 Szablony/Szablon Codzinna Notatka.md",
     "05 Szablony/Szablon Codzinna Notatka 2.md",
@@ -257,10 +261,6 @@
     "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
     "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
     "02 Obszary/Hobby/HomeLab - Setup i Plany.md",
-    "02 Obszary/Hobby/Hobby - Mapa i Priorytety.md",
-    "02 Obszary/Kariera/Ścieżka Kariery/Nauka - Harmonogram Tygodniowy.md",
-    "02 Obszary/Finanse/Strategia FIRE.md",
-    "02 Obszary/Finanse/Zakupy - Kolejka Priorytetów.md",
     "01 Projekty/FIRE/DevOps",
     "01 Projekty/FIRE/DevOps/Umiejętności",
     "01 Projekty/FIRE",

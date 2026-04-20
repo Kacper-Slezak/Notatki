@@ -76,7 +76,7 @@
         
 - [ ] **Sieci w Linuksie**:
     
-    - [ ] Podstawy: `ping`, `curl`, `netstat`, `ss`, `ip addr`.
+    - [x] Podstawy: `ping`, `curl`, `netstat`, `ss`, `ip addr`.
         
     - [ ] Zaawansowane: Konfiguracja interfejsów, podstawy `iptables`/`nftables`.
         
@@ -93,13 +93,13 @@
         
 - [ ] **Docker Compose**:
     
-    - [ ] Podstawy: Używanie plików `docker-compose.yml` do uruchamiania wielokontenerowych aplikacji.
+    - [x] Podstawy: Używanie plików `docker-compose.yml` do uruchamiania wielokontenerowych aplikacji.
         
     - [ ] Zaawansowane: Konfiguracja sieci, zmiennych środowiskowych.
         
 - [ ] **Kubernetes (K8s)**:
     
-    - [ ] Podstawy: Zrozumienie architektury (`Pod`, `Deployment`, `Service`, `Namespace`).
+    - [x] Podstawy: Zrozumienie architektury (`Pod`, `Deployment`, `Service`, `Namespace`).
         
     - [ ] Zaawansowane: Używanie `kubectl` (debugowanie, logi, skalowanie), podstawy `Helm`.
         
@@ -144,7 +144,7 @@
 
 - [ ] **AWS / Azure / GCP**:
     
-    - [ ] Podstawy: Kluczowe usługi (Maszyny wirtualne - `EC2`/`VM`, Pamięć obiektowa - `S3`/`Blob Storage`).
+    - [x] Podstawy: Kluczowe usługi (Maszyny wirtualne - `EC2`/`VM`, Pamięć obiektowa - `S3`/`Blob Storage`).
         
     - [ ] Zaawansowane: Zarządzanie tożsamością (`IAM`), usługi bazodanowe (`RDS`/`Azure SQL`), podstawy sieci (`VPC`/`VNet`).
         
@@ -155,7 +155,7 @@
 
 - [ ] **Relacyjne (SQL)**:
     
-    - [ ] Podstawy: Podstawowe zapytania (`SELECT`, `INSERT`, `UPDATE`, `WHERE`).
+    - [x] Podstawy: Podstawowe zapytania (`SELECT`, `INSERT`, `UPDATE`, `WHERE`).
         
     - [ ] Zaawansowane: Rozumienie `JOIN`, kluczy głównych i obcych.
         
@@ -170,7 +170,7 @@
 
 - [ ] **Agile/Scrum**:
     
-    - [ ] Podstawy: Zrozumienie idei sprintów, daily, retro.
+    - [x] Podstawy: Zrozumienie idei sprintów, daily, retro.
         
     - [ ] Zaawansowane: Wiedza o rolach (Product Owner, Scrum Master), artefaktach (Backlog).
         
@@ -185,13 +185,13 @@
 
 - [ ] **Angielski**:
     
-    - [ ] Podstawy: Czytanie dokumentacji technicznej ze zrozumieniem.
+    - [x] Podstawy: Czytanie dokumentacji technicznej ze zrozumieniem.
         
     - [ ] Zaawansowane: Swobodna komunikacja (pisemna i ustna).
         
 - [ ] **Rozwiązywanie Problemów**:
     
-    - [ ] Podstawy: Umiejętność korzystania z Google i Stack Overflow.
+    - [x] Podstawy: Umiejętność korzystania z Google i Stack Overflow.
         
     - [ ] Zaawansowane: Systematyczne debugowanie problemów.
         
@@ -199,6 +199,6 @@
     
     - [ ] **GitHub**: Posiadanie publicznego repozytorium z 2-3 własnymi, prostymi projektami.
         
-    - [ ] **CV**: Przygotowane, czytelne CV w języku angielskim.
+    - [x] **CV**: Przygotowane, czytelne CV w języku angielskim.
         
     - [ ] **LinkedIn**: Uzupełniony i aktywny profil.
