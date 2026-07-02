@@ -1,8 +1,8 @@
-- [ ] Architektura (API server, etcd, kubelet, kube-proxy, scheduler)
+- [x] Architektura (API server, etcd, kubelet, kube-proxy, scheduler)
     
-- [ ] Podstawowe obiekty (Pods, ReplicaSets, Deployments)
+- [x] Podstawowe obiekty (Pods, ReplicaSets, Deployments)
     
-- [ ] Komunikacja (Services: ClusterIP, NodePort, LoadBalancer)
+- [x] Komunikacja (Services: ClusterIP, NodePort, LoadBalancer)
     
 - [ ] Wystawianie na świat (Ingress, Ingress Controllers)
     

@@ -1,4 +1,4 @@
-- [ ] Koncepcje (Różnica między Metrykami, Logami a Tracingiem)
+- [x] Koncepcje (Różnica między Metrykami, Logami a Tracingiem)
     
 - [ ] Prometheus (Architektura pull, Exportery np. NodeExporter)
     

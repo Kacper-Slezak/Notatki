@@ -1,11 +1,11 @@
 
-- [ ] Architektura Dockera (Daemon, Client, Registry)
+- [x] Architektura Dockera (Daemon, Client, Registry)
     
-- [ ] Instrukcje Dockerfile (FROM, RUN, CMD vs ENTRYPOINT, COPY vs ADD)
+- [x] Instrukcje Dockerfile (FROM, RUN, CMD vs ENTRYPOINT, COPY vs ADD)
     
-- [ ] Multi-stage builds (optymalizacja wagi obrazu)
+- [x] Multi-stage builds (optymalizacja wagi obrazu)
     
-- [ ] Docker Compose (do lokalnego developmentu)
+- [x] Docker Compose (do lokalnego developmentu)
     
 - [ ] Zarządzanie danymi (Volumes vs Bind mounts)
     

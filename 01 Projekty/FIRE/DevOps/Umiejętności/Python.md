@@ -11,7 +11,7 @@
 	
 - [ ] subprocess
 	
-- [ ] re
+- [x] re
 	
 - [ ] json, yaml, configparser
 	
@@ -19,7 +19,7 @@
 	
 - [ ] request, httpx
 	
-- [ ] Scapy
+- [x] Scapy
 	
 - [ ] boto3
 	

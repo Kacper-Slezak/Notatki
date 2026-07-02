@@ -75,7 +75,7 @@ data_aktualizacji: 2026-03-15
 
 ---
 
-## ⚪ Priorytet 5 — Łuk (Samick Sage recurve) ~350–450 PLN
+## ⚪ Priorytet 5 — Łuk ~3500–4500 PLN
 - **Nie kupuje dopóki nie spędze 2 miesięcy w klubie łuczniczym**
 - Klub pożycza sprzęt 
 

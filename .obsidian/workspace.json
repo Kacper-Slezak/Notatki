@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fba8288815d6fe",
+        "id": "df7f85260dcf2644",
         "type": "tabs",
         "children": [
           {
-            "id": "aca58baf9455b550",
+            "id": "438fb521bf2dfa43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
+                "file": "01 Projekty/Semestr 6 TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Post Kwantowe - kodowanie"
+              "title": "Semestr 6 TODO"
             }
           }
         ]
@@ -128,8 +128,8 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
-                    "collapseAll": false,
+                    "file": "01 Projekty/Semestr 6 TODO.md",
+                    "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
@@ -138,7 +138,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Linki zwrotne do SOTP Master Document v3.5"
+                  "title": "Linki zwrotne do Semestr 6 TODO"
                 }
               },
               {
@@ -147,12 +147,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "02 Obszary/Oferty Pracy/Firmy.md",
+                    "file": "01 Projekty/Semestr 6 TODO.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Łącza wychodzące z Firmy"
+                  "title": "Łącza wychodzące od Semestr 6 TODO"
                 }
               },
               {
@@ -176,13 +176,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01 Projekty/Inżynierka/Draft.md",
+                    "file": "01 Projekty/Semestr 6 TODO.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt Draft"
+                  "title": "Konspekt Semestr 6 TODO"
                 }
               }
             ],
@@ -198,13 +198,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
+                    "file": "01 Projekty/Semestr 6 TODO.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Konspekt Post Kwantowe - kodowanie"
+                  "title": "Konspekt Semestr 6 TODO"
                 }
               }
             ]
@@ -230,37 +230,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aca58baf9455b550",
+  "active": "60df0e6714b423b9",
   "lastOpenFiles": [
-    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
-    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
-    "01 Projekty/Inżynierka/Plan Działania.md",
-    "02 Obszary/Kariera/Ścieżka Kariery/RoadMapy/Checklist.md",
-    "Dashboards/Kariera Dashboard.md",
-    "03 Baza Wiedzy/Nauka/Docker MOC.md",
-    "06 Codzienne Notatki/2026/01 Styczeń/2026-04-20.md",
-    "06 Codzienne Notatki/2026/01 Styczeń/Bez nazwy.md",
-    "01 Projekty/Inżynierka/Draft.md",
-    "01 Projekty/Klasyfikator pakietów/Sniffer - podejścia do etykietowania.md",
-    "01 Projekty/Klasyfikator pakietów",
-    "02 Obszary/Relacje/Prezenty.md",
-    "01 Projekty/Inżynierka/Plan Inżynierki.md",
-    "01 Projekty/Inżynierka/Emaile.md",
-    "01 Projekty/Koło naukowe/Opcje oblicznia lokalizacji.md",
-    "02 Obszary/Kariera/Ścieżka Kariery/Moja Ścieżka DevOps 2025-2028.md",
-    "01 Projekty/Koło naukowe",
-    "Master Roadmap 2024/25.md",
-    "02 Obszary/Kariera/Oferty Pracy/Rekrutacje/IBM - Rekrutacja.md",
-    "Master Roadmap 2024",
-    "Dashboards/Wellbeing Dashboard.md",
-    "Dashboards/Główny.md",
-    "05 Szablony/Szablon Codzinna Notatka.md",
-    "05 Szablony/Szablon Codzinna Notatka 2.md",
-    "02 Obszary/Finanse/Budżet - miesięczny.md",
-    "02 Obszary/Zdrowie/Trening - Plan.md",
-    "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
-    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+    "00 Inbox/Quick Notes.md",
+    "01 Projekty/Semestr 6 TODO.md",
     "02 Obszary/Hobby/HomeLab - Setup i Plany.md",
+    "02 Obszary/Hobby/Hobby - Mapa i Priorytety.md",
+    "02 Obszary/Finanse/Zakupy - Kolejka Priorytetów.md",
+    "02 Obszary/Finanse/Budżet - miesięczny.md",
+    "02 Obszary/Kariera/Ścieżka Kariery/Career evaluation and action plan.md",
+    "01 Projekty/Klasyfikator pakietów/Etykietowanie.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Docker.md",
+    "06 Codzienne Notatki/2026/01 Styczeń/2026-04-21.md",
+    "Bez nazwy.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Linux.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Networking.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Observability.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/Python.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/K8s.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/CICD.md",
+    "01 Projekty/FIRE/DevOps/Umiejętności/AWS.md",
+    "01 Projekty/Life Dashboard/MASTER PLAN - LifeOps Platform.md",
+    "01 Projekty/Koło naukowe/Opcje oblicznia lokalizacji.md",
+    "01 Projekty/Klasyfikator pakietów/Sniffer - podejścia do etykietowania.md",
+    "01 Projekty/Ops Automatization/Automatyzacja.md",
+    "02 Obszary/Blog/Pomysły na wpisy.md",
+    "02 Obszary/Blog/Pomysły na serie wpisów.md",
+    "02 Obszary/Blog/Wpisy/Agla Alef Recenzja.md",
+    "02 Obszary/Blog/Wpisy/Droga do mobliności 12.01.2026.md",
+    "01 Projekty/Klasyfikator pakietów",
+    "01 Projekty/Koło naukowe",
+    "Master Roadmap 2024",
     "01 Projekty/FIRE/DevOps",
     "01 Projekty/FIRE/DevOps/Umiejętności",
     "01 Projekty/FIRE",

@@ -50,7 +50,7 @@ data_aktualizacji: 2026-03-15
 | Sejf            | Cel                          | Stan docelowy |
 | --------------- | ---------------------------- | ------------- |
 | Poduszka bezp.  | 4 miesiące kosztów życia     | 15 000 PLN    |
-| Wkład własny    | Mieszkanie 2030              | 70 000 PLN    |
+| Wkład własny    | Mieszkanie 2030              | 120 000 PLN   |
 | Fundusz zakupów | Sprzęt (kolejka priorytetów) | rolling ~2k   |
 | EDO             | Główne oszczędności          | max możliwy   |
 | IBKR / VWCE     | Długoterminowe inwestycje    | od 50k+ total |

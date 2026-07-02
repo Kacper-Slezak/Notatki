@@ -1,8 +1,8 @@
-- [ ] Git workflow (Trunk-based development, GitFlow)
+- [x] Git workflow (Trunk-based development, GitFlow)
     
 - [ ] Zaawansowany Git (rebase, merge, cherry-pick, reset, stash)
     
-- [ ] Budowa pipeline'u (Etapy: Lint -> Test -> Build -> Deploy)
+- [x] Budowa pipeline'u (Etapy: Lint -> Test -> Build -> Deploy)
     
 - [ ] Zarządzanie sekretami w CI/CD (GitHub Secrets / GitLab CI Variables)
     
