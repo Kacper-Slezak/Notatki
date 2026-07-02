@@ -95,122 +95,94 @@
     "type": "split",
     "children": [
       {
-        "id": "d384643c9490f2c3",
-        "type": "split",
+        "id": "7c051e4cd553ebeb",
+        "type": "tabs",
         "children": [
           {
-            "id": "7c051e4cd553ebeb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16677dea41925158",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "60df0e6714b423b9",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "4361949befc6a5bd",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "01 Projekty/Semestr 6 TODO.md",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Linki zwrotne do Semestr 6 TODO"
-                }
-              },
-              {
-                "id": "f233b3c5baaf0c83",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "01 Projekty/Semestr 6 TODO.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Łącza wychodzące od Semestr 6 TODO"
-                }
-              },
-              {
-                "id": "13287ecbea55316d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tagi"
-                }
-              },
-              {
-                "id": "4552bbca2afc53d1",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "01 Projekty/Semestr 6 TODO.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Konspekt Semestr 6 TODO"
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "16677dea41925158",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           },
           {
-            "id": "dc984fc2a35c919e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "06a7dd87f7ac2a6c",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "01 Projekty/Semestr 6 TODO.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Konspekt Semestr 6 TODO"
-                }
-              }
-            ]
+            "id": "60df0e6714b423b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4361949befc6a5bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Projekty/Semestr 6 TODO.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Semestr 6 TODO"
+            }
+          },
+          {
+            "id": "f233b3c5baaf0c83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Projekty/Semestr 6 TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Semestr 6 TODO"
+            }
+          },
+          {
+            "id": "13287ecbea55316d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "4552bbca2afc53d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Projekty/Semestr 6 TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Semestr 6 TODO"
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
