@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Szablony/Daily_Sovereign_Template.md",
-                "mode": "source",
+                "file": "01 Projekty/Inżynierka/Emaile.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily_Sovereign_Template"
+              "title": "Emaile"
             }
           }
         ]
@@ -205,15 +205,20 @@
   },
   "active": "6655179a247dad40",
   "lastOpenFiles": [
-    "06 Codzienne Notatki/2026/07 Lipiec/2026-07-03.md",
+    "04 Archiwum/Inzynierka/Email.md",
+    "01 Projekty/Ops Automatization/Automatyzacja.md",
+    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
+    "01 Projekty/Inżynierka/Draft.md",
+    "01 Projekty/Inżynierka/Plan Inżynierki.md",
+    "01 Projekty/Inżynierka/Plan Działania.md",
+    "01 Projekty/Inżynierka/Emaile.md",
+    "01 Projekty/00_Plan_Letni_Checklisty.md",
+    "05 Szablony/Nowa Notatka Techniczna.md",
     "05 Szablony/Daily_Sovereign_Template.md",
+    "06 Codzienne Notatki/2026/07 Lipiec/2026-07-03.md",
     "06 Codzienne Notatki/2026/07 Lipiec",
     "06 Codzienne Notatki/2026/01 Styczeń/2026-07-03.md",
     "05 Szablony/Szablon Codzienna Notatka.md",
-    "01 Projekty/00_Plan_Letni_Checklisty.md",
-    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
-    "01 Projekty/Inżynierka/Plan Inżynierki.md",
-    "01 Projekty/Inżynierka/Plan Działania.md",
     "01 Projekty/SOTP/00 SOTP Dashboard.md",
     "Dashboards/00_Sovereign_Dashboard.md",
     "Dashboards/Główny.md",
@@ -227,14 +232,9 @@
     "03 Baza Wiedzy/Nauka/DevOps/CICD.md",
     "03 Baza Wiedzy/Nauka/DevOps/Networking.md",
     "03 Baza Wiedzy/Nauka/DevOps/Linux.md",
-    "03 Baza Wiedzy/Nauka/DevOps/AWS.md",
     "03 Baza Wiedzy/Nauka/DevOps",
-    "04 Archiwum/Ops Automatization/Automatyzacja.md",
-    "04 Archiwum/Ops Automatization",
-    "04 Archiwum/Koło naukowe/Opcje obliczania lokalizacji.md",
+    "01 Projekty/Ops Automatization",
     "04 Archiwum/Koło naukowe",
-    "04 Archiwum/Klasyfikator pakietów/Sniffer - podejścia do etykietowania.md",
-    "04 Archiwum/Klasyfikator pakietów/Etykietowanie.md",
     "04 Archiwum/Klasyfikator pakietów",
     "04 Archiwum/Biblioteka predict",
     "organize.py",

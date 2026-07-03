@@ -1,40 +1,141 @@
-# ☀️ Master Plan Letni (Lipiec & Sierpień 2026)
+##  CHECKLIST: Wakacje 2026
 
-## 🩺 Tydzień 1 & 2 Lipca: Administracja Zdrowiem (One-off)
-- [ ] Umówić pobranie krwi (Internista GP)
-- [ ] Umówić wizytę u Dentysty
-- [ ] Umówić Fizjoterapeutę
-- [ ] Umówić Optometrystę
+###  Faza 0: Stabilizacja Systemu (Start)
 
-## 🎓 CKA Sprint (Lipiec)
-- [ ] Przerobić sekcję Core Concepts & Scheduling
-- [ ] Przerobić sekcję Networking & Storage
-- [ ] Zrobić Mock Exam #1 (killer.sh)
-- [ ] Zrobić Mock Exam #2 (killer.sh)
-- [ ] **Zdać egzamin CKA (Deadline: Koniec Lipca)**
+- [ ] **Lekarze:**
+    
+    - [ ] Internista (profilaktyka/krew) - Umówione na: ____
+        
+    - [ ] Dentysta (przegląd) - Umówione na: ____
+        
+    - [ ] Fizjoterapeuta (kręgosłup/postawa) - Umówione na: ____
+        
+    - [ ] Okulista (badanie wzroku) - Umówione na: ____
+        
+- [ ] **Mieszkanie/Środowisko:**
+    
+    - [ ] Marie Kondo (decluttering: ubrania, kable, biurko) - Data: ____
+        
+    - [ ] Konfiguracja Obsidian 
+        
+    - [ ] Ustalenie "Uniformu" (kapsułowa garderoba)
+        
+- [ ] **Finanse:**
+    
+    - [ ] Wpisanie danych do Excela Zero-Sum
+        
+    - [ ] Automatyzacja przelewów na inwestycje (ustawione: ____)
+        
 
-## 🚀 Praca Inżynierska (K8s, Envoy, mTLS, PQC)
-### Lipiec
-- [ ] Wybrać algorytmy PQC (Kyber/Dilithium) do testów
-- [ ] Zestawić lokalny klaster testowy (Kind / Minikube)
-- [ ] Skonfigurować Envoya z bazowym mTLS (bez PQC)
-- [ ] Skonfigurować narzędzia obciążeniowe (Fortio/wrk)
+### 🎓 Faza 1: Inżynierka (Thesis & CKA)
 
-### Sierpień
-- [ ] Zaimplementować filtry PQC w Envoy
-- [ ] Przeprowadzić testy opóźnień i narzutu na CPU
-- [ ] Przeanalizować dane z testów
-- [ ] Napisać rozdział badawczy i wnioski
+- [ ] **Kubernetes/Envoy (Thesis):**
+    
+    - [ ] Setup klastra (Kind/Minikube)
+        
+    - [ ] Konfiguracja Envoya
+        
+    - [ ] Implementacja filtra mTLS
+        
+    - [ ] Testy kryptograficzne
+        
+    - [ ] Eksperymenty Post-Quantum (PQC)
+        
+    - [ ] [PRZESTRZEŃ NA EKSPERYMENTY]
+        
+- [ ] **CKA (Deadline: Koniec Lipca):**
+    
+    - [ ] Przerobienie modułów KodeKloud
+        
+    - [ ] Notatki w Obsidianie (`[KURS] CKA`)
+        
+    - [ ] Lab 1 (Mock Exam)
+        
+    - [ ] Lab 2 (Mock Exam)
+        
+    - [ ] Egzamin zdany!
+        
 
-## 💻 Projekty Osobiste
-- [ ] SOTP: Ustabilizować stack monitoringu (Prometheus/Grafana)
-- [ ] Portfolio Website: Opublikować stronę z projektami (Docker/Hugo/K8s)
-- [ ] Cyfrowy Schron: Odpalić Immich lub skończyć skrypt Pythona na serwerze
+### 💻 Faza 2: Projekty & Portfolio (Sierpień)
 
-## 📆 Harmonogram Typowego Dnia Roboczego
-1. **06:00 - 08:00:** Bieg/Trening + BuJo (3 MITs)
-2. **08:00 - 13:00:** 🏢 **Praca IBM (5h MAX)** - *Po 13:00 zamykasz firmowego Slacka!*
-3. **13:00 - 14:00:** Reset, Obiad
-4. **14:00 - 16:30:** 🎓 **Deep Work:** Inżynierka / CKA
-5. **17:00 - 19:30:** Projekty Osobiste (SOTP/Portfolio) + Czytanie (1h)
-6. **Po 19:30:** 🚫 ZERO EKRANÓW (Kaletnictwo, Relacje, Odpoczynek)
+- [ ] **SOTP:**
+    
+    - [ ] Integracja monitoringu (Prometheus/Grafana)
+        
+    - [ ] [PRZESTRZEŃ NA NOWE FIERY]
+        
+- [ ] **Portfolio Website:**
+    
+    - [ ] Wybór domeny / hostingu
+        
+    - [ ] Postawienie szkieletu (Hugo/Jekyll)
+        
+    - [ ] Opis SOTP i ThreatLens
+        
+    - [ ] Sekcja Fotograficzna (X-T4 & Dron)
+        
+- [ ] **Cyfrowy Schron (Skrypty):**
+    
+    - [ ] Skrypt w Pythonie (EXIF sorter) - Etap: ____
+        
+    - [ ] [PRZESTRZEŃ NA PROJEKTY]
+        
+
+### ☁️ Faza 3: Rozwój (AWS & Wiedza)
+
+- [ ] **AWS Solutions Architect (Sierpień):**
+    
+    - [ ] Przerobienie kursu Cantrilla (postęp: 40% -> 80%)
+        
+    - [ ] Notatki z AWS w Obsidianie
+        
+- [ ] **Rozwój ogólny (Książki/Podcasty - 1h dziennie):**
+    
+    - [ ] Przeczytać/przerobić: ____________________
+        
+    - [ ] [PRZESTRZEŃ NA KOLEJNE POZYCJE]
+        
+
+### 🌲 Faza 4: Analog & Balance (Całe wakacje)
+
+- [ ] **Treningi (System):**
+    
+    - [ ] Bieg (3x tyg): [ ] [ ] [ ]
+        
+    - [ ] Kalistenika (3x tyg): [ ] [ ] [ ]
+        
+    - [ ] Mobility (codziennie): [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+        
+- [ ] **Hobby:**
+    
+    - [ ] Skórzana okładka na BuJo (Leathercraft)
+        
+    - [ ] Fotografia (sesja z aparatem/dronem): ____
+        
+- [ ] **Relacje:**
+    
+    - [ ] Randka/wyjazd z dziewczyną (weekendowa): [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+        
+
+##  System Pracy: "Plan-Driven Mode"
+
+### 1. Cykl Dzienny (Zeszyt & Obsidian)
+
+- **Wieczór:** Planuję 3  (Most Important Tasks) w zeszycie.
+    
+- **Rano:** Odpalam sesję pracy IBM (5h).
+    
+- **Popołudnie:** Blok "Rdzeń" (Inżynierka lub SOTP).
+    
+- **Wieczór:** Analogowy reset, wpisanie godzin IBM do Obsidiana, podsumowanie w zeszycie.
+    
+
+### 2. Cykl Tygodniowy (Niedziela, Obsidian)
+
+- [ ] Czy IBM = 25h?
+    
+- [ ] Czy Inżynierka poszła do przodu?
+    
+- [ ] Czy finanse są "Zero-Sum"?
+    
+- [ ] **[PRZESTRZEŃ NA TYGODNIOWE WNIOSKI]**
