@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53565358b126fd7c",
+        "id": "d63d38052d153f11",
         "type": "tabs",
         "children": [
           {
-            "id": "7abc36a6c57420ef",
+            "id": "c5e1a7bfb7c650f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
-                "mode": "preview",
+                "file": "01 Projekty/Inżynierka/testów w K6.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rozciąganie - Rutyna"
+              "title": "testów w K6"
             }
           }
         ]
@@ -203,15 +203,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7abc36a6c57420ef",
+  "active": "c5e1a7bfb7c650f1",
   "lastOpenFiles": [
-    "01 Projekty/Inżynierka/Emaile.md",
+    "Untitled 1.md",
+    "01 Projekty/Inżynierka/testów w K6.md",
+    "Untitled.md",
+    "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
+    "01 Projekty/Inżynierka/Archiwum",
+    "01 Projekty/Inżynierka/Archiwum/Emaile.md",
     "04 Archiwum/Inzynierka/Email.md",
     "01 Projekty/Ops Automatization/Automatyzacja.md",
-    "01 Projekty/Inżynierka/Post Kwantowe - kodowanie.md",
-    "01 Projekty/Inżynierka/Draft.md",
-    "01 Projekty/Inżynierka/Plan Inżynierki.md",
-    "01 Projekty/Inżynierka/Plan Działania.md",
+    "01 Projekty/Inżynierka/Archiwum/Post Kwantowe - kodowanie.md",
+    "01 Projekty/Inżynierka/Archiwum/Draft.md",
+    "01 Projekty/Inżynierka/Archiwum/Plan Inżynierki.md",
+    "01 Projekty/Inżynierka/Archiwum/Plan Działania.md",
     "01 Projekty/00_Plan_Letni_Checklisty.md",
     "05 Szablony/Nowa Notatka Techniczna.md",
     "05 Szablony/Daily_Sovereign_Template.md",
@@ -228,10 +233,6 @@
     "03 Baza Wiedzy/Nauka/DevOps/Terraform.md",
     "03 Baza Wiedzy/Nauka/DevOps/Docker.md",
     "03 Baza Wiedzy/Nauka/DevOps/K8s.md",
-    "03 Baza Wiedzy/Nauka/DevOps/Observability.md",
-    "03 Baza Wiedzy/Nauka/DevOps/CICD.md",
-    "03 Baza Wiedzy/Nauka/DevOps/Networking.md",
-    "03 Baza Wiedzy/Nauka/DevOps/Linux.md",
     "03 Baza Wiedzy/Nauka/DevOps",
     "01 Projekty/Ops Automatization",
     "04 Archiwum/Koło naukowe",
@@ -240,7 +241,6 @@
     "organize.py",
     "Bez nazwy",
     "01 Projekty/Klasyfikator pakietów",
-    "01 Projekty/Koło naukowe",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
