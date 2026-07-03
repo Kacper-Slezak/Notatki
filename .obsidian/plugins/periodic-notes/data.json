@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "06 Codzienne Notatki/2026/01 Styczeń",
-    "template": "05 Szablony/Szablon Codzinna Notatka",
+    "folder": "06 Codzienne Notatki/2026/07 Lipiec",
+    "template": "05 Szablony/Daily_Sovereign_Template.md",
     "enabled": true
   },
   "weekly": {
