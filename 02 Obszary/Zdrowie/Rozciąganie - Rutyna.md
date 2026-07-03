@@ -35,33 +35,33 @@ data_aktualizacji: 2026-07-03
     
 - [ ] **Klatka piersiowa:** Ramię proste oparte poziomo o ścianę, otwarcie klatki i rotacja tułowia na zewnątrz. `⏱️ 15-30s / strona` (20)
     
-- [ ] **Bicepsy:** Wyprostowane ramię oparte o ścianę z dłonią w pronacji, rotacja ciała na zewnątrz poprzez nacisk na łokieć. `⏱️ 15-30s / strona` ()
+- [ ] **Bicepsy:** Wyprostowane ramię oparte o ścianę z dłonią w pronacji, rotacja ciała na zewnątrz poprzez nacisk na łokieć. `⏱️ 15-30s / strona` (28)
     
-- [ ] **Przedramiona:** Wyciągnięte ramię w przód, dłoń przytrzymywana drugą ręką i palce dociągane do siebie. `⏱️ 15-30s / strona`
+- [ ] **Przedramiona:** Wyciągnięte ramię w przód, dłoń przytrzymywana drugą ręką i palce dociągane do siebie. `⏱️ 15-30s / strona` (35)
     
 
 ###  Tułów i Plecy
 
-- [ ] **Brzuch:** Leżenie na brzuchu, wygięcie pleców w tył z podparciem na dłoniach i unoszeniem klatki. `⏱️ 15-30s`
+- [ ] **Brzuch:** Leżenie na brzuchu, wygięcie pleców w tył z podparciem na dłoniach i unoszeniem klatki. `⏱️ 15-30s` (51)
     
-- [ ] **Lędźwie:** Siad z prostymi nogami, mocne zaokrąglenie pleców, spięty brzuch i skłon tułowia do ud. `⏱️ 15-30s`
+- [ ] **Lędźwie:** Siad z prostymi nogami, mocne zaokrąglenie pleców, spięty brzuch i skłon tułowia do ud. `⏱️ 15-30s` (60)
     
-- [ ] **Najszerszy grzbietu:** Skłon do jednej wyprostowanej nogi, rotacja tułowia na zewnątrz z prostym ramieniem. `⏱️ 15-30s / strona`
+- [ ] **Najszerszy grzbietu:** Skłon do jednej wyprostowanej nogi, rotacja tułowia na zewnątrz z prostym ramieniem. `⏱️ 15-30s / strona` (63)
     
-- [ ] **Czworoboczny (Kark):** Dociąganie głowy w dół i do boku przy jednoczesnym wychyleniu tułowia. `⏱️ 15-30s / strona`
+- [ ] **Czworoboczny (Kark):** Dociąganie głowy w dół i do boku przy jednoczesnym wychyleniu tułowia. `⏱️ 15-30s / strona` (68)
     
 
 ###  Dół ciała
 
-- [ ] **Biodra (Zgięcie):** Leżenie na plecach, dociąganie ugiętego kolana do klatki w kierunku przeciwnego boku. `⏱️ 15-30s / strona`
+- [ ] **Biodra (Zgięcie):** Leżenie na plecach, dociąganie ugiętego kolana do klatki w kierunku przeciwnego boku. `⏱️ 15-30s / strona` (72)
     
-- [ ] **Biodra (Wyprost):** Klęk na jednym kolanie, opuszczanie miednicy w dół próbując wyprostować tylną nogę z pionowym tułowiem. `⏱️ 15-30s / strona`
+- [ ] **Biodra (Wyprost):** Klęk na jednym kolanie, opuszczanie miednicy w dół próbując wyprostować tylną nogę z pionowym tułowiem. `⏱️ 15-30s / strona` (73)
     
-- [ ] **Uda (Tył - Grupa kulszowo-goleniowa):** Skłon w staniu w dół trzymając proste nogi z zaokrąglonymi plecami w lędźwiach. `⏱️ 15-30s`
+- [ ] **Uda (Tył - Grupa kulszowo-goleniowa):** Skłon w staniu w dół trzymając proste nogi z zaokrąglonymi plecami w lędźwiach. `⏱️ 15-30s` (78)
     
-- [ ] **Uda (Przód - Czworogłowe):** Stanie na jednej nodze, przyciąganie pięty w tył do pośladka unosząc kolano możliwie najwyżej. `⏱️ 15-30s / strona`
+- [ ] **Uda (Przód - Czworogłowe):** Stanie na jednej nodze, przyciąganie pięty w tył do pośladka unosząc kolano możliwie najwyżej. `⏱️ 15-30s / strona` (83)
     
-- [ ] **Łydki:** Stanie i trzymanie wsparcia, przyciąganie kolan w stronę ziemi poprzez zgięcie pleców i utrzymanie pięt na podłożu. `⏱️ 15-30s / strona`
+- [ ] **Łydki:** Stanie i trzymanie wsparcia, przyciąganie kolan w stronę ziemi poprzez zgięcie pleców i utrzymanie pięt na podłożu. `⏱️ 15-30s / strona` (91)
     
 
 ## Test progresu (raz w tygodniu — niedziela)
