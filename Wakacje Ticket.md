@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## TODO
@@ -8,6 +10,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Konfiguracja Nowego Użytkownika
 
 
 ## Done
