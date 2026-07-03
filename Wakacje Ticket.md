@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Obsidian zmiana template
+- [ ] Nawyk planowania
 
 
 ## In Progress
