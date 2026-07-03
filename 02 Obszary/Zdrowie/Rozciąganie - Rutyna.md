@@ -2,65 +2,86 @@
 typ: rutyna
 kategoria: sport
 status: aktywny
-data_aktualizacji: 2026-03-15
+data_aktualizacji: 2026-07-03
 ---
-
 # Rozciąganie — Rutyna Codzienna
 
 > [!abstract] Zasada
+> 
 > CODZIENNIE. Rano zanim włączysz komputer. Wieczorem przed snem.
+> 
 > Łącznie: 15 minut. Bez wymówek.
 
----
+**Metoda:** Codzienna – 1 seria na ćwiczenie
 
-## Poranna rutyna (10 minut)
+### 📌 Najważniejsze zasady
 
-```
-1. Cat-Cow (kocie grzbiety)        10 powtórzeń
-2. Child's Pose                    60 sekund
-3. Hip Flexor Stretch              45 sek każda strona
-4. 90/90 Hip Stretch               60 sek każda strona
-5. Thoracic Rotation (siedząc)     10 powtórzeń każda strona
-6. Doorframe Chest Stretch         30 sek × 2
-7. Neck Rolls                      5 powtórzeń każda strona
-```
+- **Czas:** Utrzymuj każdą pozycję przez 15 do 30 sekund.
+    
+- **Oddychanie:** Oddychaj miarowo i spokojnie (najlepiej przez nos). Oddychanie powinno składać się z 3 do 6 oddechów na pozycję. Nigdy nie wstrzymuj oddechu, ponieważ osłabia to mięśnie.
+    
+- **Intensywność:** Szukaj napięcia na poziomie 7-8 w skali 1-10. To nie ma być ból, tylko uczucie rozciągania.
+    
+- **Wykonanie:** Przechodź płynnie od jednego ćwiczenia do drugiego. Wykonuj ćwiczenia po obu stronach ciała.
+    
 
----
+###  Góra ciała
 
-## Wieczorna rutyna (5 minut)
+- [ ] **Szyja (Rotacja):** Obrót głowy w lewo i w prawo. `⏱️ 15-30s / strona` (1)
+    
+- [ ] **Barki - przód:** Siad na ziemi, ręce z tyłu w supinacji, klatka piersiowa do przodu. `⏱️ 15-30s` (6)
+    
+- [ ] **Barki - tył:** Przyciąganie ugiętego łokcia poziomo do siebie bez wysuwania barku w przód. `⏱️ 15-30s / strona` (10)
+    
+- [ ] **Klatka piersiowa:** Ramię proste oparte poziomo o ścianę, otwarcie klatki i rotacja tułowia na zewnątrz. `⏱️ 15-30s / strona` (20)
+    
+- [ ] **Bicepsy:** Wyprostowane ramię oparte o ścianę z dłonią w pronacji, rotacja ciała na zewnątrz poprzez nacisk na łokieć. `⏱️ 15-30s / strona` ()
+    
+- [ ] **Przedramiona:** Wyciągnięte ramię w przód, dłoń przytrzymywana drugą ręką i palce dociągane do siebie. `⏱️ 15-30s / strona`
+    
 
-```
-1. Supine Twist (leżąc)            45 sek każda strona
-2. Happy Baby                      60 sekund
-3. Butterfly Stretch               60 sekund
-4. Legs Up the Wall                2 minuty
-```
+###  Tułów i Plecy
 
----
+- [ ] **Brzuch:** Leżenie na brzuchu, wygięcie pleców w tył z podparciem na dłoniach i unoszeniem klatki. `⏱️ 15-30s`
+    
+- [ ] **Lędźwie:** Siad z prostymi nogami, mocne zaokrąglenie pleców, spięty brzuch i skłon tułowia do ud. `⏱️ 15-30s`
+    
+- [ ] **Najszerszy grzbietu:** Skłon do jednej wyprostowanej nogi, rotacja tułowia na zewnątrz z prostym ramieniem. `⏱️ 15-30s / strona`
+    
+- [ ] **Czworoboczny (Kark):** Dociąganie głowy w dół i do boku przy jednoczesnym wychyleniu tułowia. `⏱️ 15-30s / strona`
+    
 
-## Co rozwijać priorytetowo
+###  Dół ciała
 
-| Obszar             | Dlaczego                           | Kluczowe ćwiczenia           |
-|--------------------|-------------------------------------|-------------------------------|
-| **Biodra**         | Siedzący tryb (praca/studia)       | 90/90, Hip Flexor, Pigeon     |
-| **Klatka/Ramiona** | Praca przy komputerze (zaokrąglone plecy) | Doorframe, Thoracic rotation |
-| **Hamstrings**     | Bieganie + siedzenie               | Standing forward fold, PNF   |
-
----
+- [ ] **Biodra (Zgięcie):** Leżenie na plecach, dociąganie ugiętego kolana do klatki w kierunku przeciwnego boku. `⏱️ 15-30s / strona`
+    
+- [ ] **Biodra (Wyprost):** Klęk na jednym kolanie, opuszczanie miednicy w dół próbując wyprostować tylną nogę z pionowym tułowiem. `⏱️ 15-30s / strona`
+    
+- [ ] **Uda (Tył - Grupa kulszowo-goleniowa):** Skłon w staniu w dół trzymając proste nogi z zaokrąglonymi plecami w lędźwiach. `⏱️ 15-30s`
+    
+- [ ] **Uda (Przód - Czworogłowe):** Stanie na jednej nodze, przyciąganie pięty w tył do pośladka unosząc kolano możliwie najwyżej. `⏱️ 15-30s / strona`
+    
+- [ ] **Łydki:** Stanie i trzymanie wsparcia, przyciąganie kolan w stronę ziemi poprzez zgięcie pleców i utrzymanie pięt na podłożu. `⏱️ 15-30s / strona`
+    
 
 ## Test progresu (raz w tygodniu — niedziela)
-- [ ] Dotykam podłogi w standing forward fold?
-- [ ] Siadam w 90/90 bez podpierania rąk?
-- [ ] Mogę powiązać ręce za plecami (Gomukhasana)?
 
----
+- [ ] Dotykam podłogi w standing forward fold?
+    
+- [ ] Siadam w 90/90 bez podpierania rąk?
+    
+- [ ] Mogę powiązać ręce za plecami (Gomukhasana)?
+    
 
 ## Materiały
-- **Tom Merrick** (YouTube) — najlepsze rutyny mobility
-- **Yoga with Adriene** — do wieczornych sesji
 
----
+- **Tom Merrick** (YouTube) — najlepsze rutyny mobility
+    
+- **Yoga with Adriene** — do wieczornych sesji
+    
 
 ## Powiązane
+
 - [[Trening - Plan]]
+    
 - [[Kalistenika - Rutyna]]
