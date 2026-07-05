@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Podcasty/Lista.md",
+                "file": "Szablony.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lista"
+              "title": "Szablony"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "c5e1a7bfb7c650f1",
   "lastOpenFiles": [
-    "Wakacje Ticket.md",
     "03 Baza Wiedzy/Podcasty/Lista.md",
+    "Szablony.md",
+    "Wakacje Ticket.md",
     "03 Baza Wiedzy/Podcasty",
     "01 Projekty/00_Plan_Letni_Checklisty.md",
     "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
@@ -233,7 +234,6 @@
     "06 Codzienne Notatki/2026/07 Lipiec/2026-07-03.md",
     "06 Codzienne Notatki/2026/07 Lipiec",
     "06 Codzienne Notatki/2026/01 Styczeń/2026-07-03.md",
-    "05 Szablony/Szablon Codzienna Notatka.md",
     "03 Baza Wiedzy/Nauka/DevOps",
     "01 Projekty/Ops Automatization",
     "04 Archiwum/Koło naukowe",
