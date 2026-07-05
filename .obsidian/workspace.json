@@ -11,20 +11,24 @@
             "id": "c5e1a7bfb7c650f1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Wakacje Ticket.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "03 Baza Wiedzy/Podcasty/Lista.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Wakacje Ticket"
+              "icon": "lucide-file",
+              "title": "Lista"
             }
           }
         ]
@@ -201,6 +205,9 @@
   },
   "active": "c5e1a7bfb7c650f1",
   "lastOpenFiles": [
+    "Wakacje Ticket.md",
+    "03 Baza Wiedzy/Podcasty/Lista.md",
+    "03 Baza Wiedzy/Podcasty",
     "01 Projekty/00_Plan_Letni_Checklisty.md",
     "01 Projekty/SOTP/20 Architektura/Architektura Systemu.md",
     "01 Projekty/SOTP/20 Architektura/Struktura Repozytorium.md",
@@ -227,8 +234,6 @@
     "06 Codzienne Notatki/2026/07 Lipiec",
     "06 Codzienne Notatki/2026/01 Styczeń/2026-07-03.md",
     "05 Szablony/Szablon Codzienna Notatka.md",
-    "Dashboards/00_Sovereign_Dashboard.md",
-    "Dashboards/Główny.md",
     "03 Baza Wiedzy/Nauka/DevOps",
     "01 Projekty/Ops Automatization",
     "04 Archiwum/Koło naukowe",
@@ -236,7 +241,6 @@
     "04 Archiwum/Biblioteka predict",
     "organize.py",
     "Bez nazwy",
-    "01 Projekty/Klasyfikator pakietów",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
