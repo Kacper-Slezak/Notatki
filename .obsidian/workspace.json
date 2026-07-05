@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/Inżynierka/Plan testów w K6.md",
+                "file": "01 Projekty/SOTP/00 SOTP Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plan testów w K6"
+              "title": "00 SOTP Dashboard"
             }
           }
         ]
@@ -205,10 +205,10 @@
   },
   "active": "c5e1a7bfb7c650f1",
   "lastOpenFiles": [
+    "01 Projekty/Inżynierka/Plan testów w K6.md",
     "01 Projekty/Ops Automatization/Automatyzacja.md",
     "01 Projekty/Inżynierka/Archiwum/Plan Inżynierki.md",
     "01 Projekty/Inżynierka/Archiwum/Draft.md",
-    "01 Projekty/Inżynierka/Plan testów w K6.md",
     "Untitled 1.md",
     "Untitled.md",
     "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
