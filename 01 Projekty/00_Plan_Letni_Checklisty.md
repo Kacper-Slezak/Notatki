@@ -16,7 +16,7 @@
     
     - [ ] Marie Kondo (decluttering: ubrania, kable, biurko) - Data: ____
         
-    - [ ] Konfiguracja Obsidian 
+    - [x] Konfiguracja Obsidian 
         
     - [ ] Ustalenie "Uniformu" (kapsułowa garderoba)
         
@@ -24,7 +24,7 @@
     
     - [ ] Wpisanie danych do Excela Zero-Sum
         
-    - [ ] Automatyzacja przelewów na inwestycje (ustawione: ____)
+    - [x] Automatyzacja przelewów na inwestycje (ustawione: ____)
         
 
 ### 🎓 Faza 1: Inżynierka (Thesis & CKA)
