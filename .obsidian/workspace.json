@@ -11,10 +11,24 @@
             "id": "b0e6b1dfc6e2800b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Kalistenika - Rutyna"
             }
           }
         ]
@@ -185,8 +199,7 @@
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open today": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "b0e6b1dfc6e2800b",
