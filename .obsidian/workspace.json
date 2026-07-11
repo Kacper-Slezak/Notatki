@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+                "file": "01 Projekty/Buba Kariera/Certyfikaty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kalistenika - Rutyna"
+              "title": "Certyfikaty"
             }
           }
         ]
@@ -199,14 +199,18 @@
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b0e6b1dfc6e2800b",
   "lastOpenFiles": [
+    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
+    "01 Projekty/Buba Kariera/Certyfikaty.md",
+    "01 Projekty/Buba Kariera/Certyfikaty",
+    "01 Projekty/Buba Kariera",
     "02 Obszary/Zdrowie/Rozciąganie - Rutyna.md",
     "02 Obszary/Zdrowie/Trening - Plan.md",
-    "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
     "Szablony.md",
     "03 Baza Wiedzy/Podcasty/Lista.md",
     "Wakacje Ticket.md",
@@ -231,15 +235,12 @@
     "01 Projekty/Inżynierka/Archiwum/Post Kwantowe - kodowanie.md",
     "01 Projekty/Inżynierka/Archiwum/Plan Działania.md",
     "05 Szablony/Nowa Notatka Techniczna.md",
-    "05 Szablony/Daily_Sovereign_Template.md",
     "06 Codzienne Notatki/2026/07 Lipiec",
     "03 Baza Wiedzy/Nauka/DevOps",
     "01 Projekty/Ops Automatization",
     "04 Archiwum/Koło naukowe",
     "04 Archiwum/Klasyfikator pakietów",
     "04 Archiwum/Biblioteka predict",
-    "organize.py",
-    "Bez nazwy",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
