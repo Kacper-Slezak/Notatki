@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/Inżynierka/Performance Comparison Report.md",
+                "file": "01 Projekty/Inżynierka/Archiwum/Emaile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Performance Comparison Report"
+              "title": "Emaile"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Przeglądarka plików"
@@ -191,11 +193,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
       "graph:Otwórz podgląd grafu": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "canvas:Stwórz nową tablicę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
@@ -205,8 +207,8 @@
   },
   "active": "b0e6b1dfc6e2800b",
   "lastOpenFiles": [
-    "01 Projekty/Buba Kariera/Certyfikaty.md",
     "01 Projekty/Inżynierka/Performance Comparison Report.md",
+    "01 Projekty/Buba Kariera/Certyfikaty.md",
     "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
     "01 Projekty/Buba Kariera/Certyfikaty",
     "01 Projekty/Buba Kariera",
