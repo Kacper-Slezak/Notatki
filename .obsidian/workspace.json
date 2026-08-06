@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/Inżynierka/Archiwum/Emaile.md",
+                "file": "01 Projekty/Inżynierka/Performance Comparison Report.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emaile"
+              "title": "Performance Comparison Report"
             }
           }
         ]
@@ -207,7 +207,12 @@
   },
   "active": "b0e6b1dfc6e2800b",
   "lastOpenFiles": [
+    "01 Projekty/Inżynierka/Archiwum/Plan Inżynierki.md",
+    "01 Projekty/Inżynierka/Archiwum/Plan Działania.md",
+    "01 Projekty/Inżynierka/Archiwum/Post Kwantowe - kodowanie.md",
+    "01 Projekty/Inżynierka/Plan testów w K6.md",
     "01 Projekty/Inżynierka/Performance Comparison Report.md",
+    "01 Projekty/Inżynierka/Archiwum/Emaile.md",
     "01 Projekty/Buba Kariera/Certyfikaty.md",
     "02 Obszary/Zdrowie/Kalistenika - Rutyna.md",
     "01 Projekty/Buba Kariera/Certyfikaty",
@@ -226,17 +231,12 @@
     "01 Projekty/SOTP/99 Zasoby/Roadmap.md",
     "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
     "01 Projekty/SOTP/00 SOTP Dashboard.md",
-    "01 Projekty/Inżynierka/Plan testów w K6.md",
     "01 Projekty/Ops Automatization/Automatyzacja.md",
-    "01 Projekty/Inżynierka/Archiwum/Plan Inżynierki.md",
     "01 Projekty/Inżynierka/Archiwum/Draft.md",
     "Untitled 1.md",
     "Untitled.md",
     "01 Projekty/Inżynierka/Archiwum",
-    "01 Projekty/Inżynierka/Archiwum/Emaile.md",
     "04 Archiwum/Inzynierka/Email.md",
-    "01 Projekty/Inżynierka/Archiwum/Post Kwantowe - kodowanie.md",
-    "01 Projekty/Inżynierka/Archiwum/Plan Działania.md",
     "06 Codzienne Notatki/2026/07 Lipiec",
     "03 Baza Wiedzy/Nauka/DevOps",
     "01 Projekty/Ops Automatization",

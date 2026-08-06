@@ -1,4 +1,3 @@
-# Performance Comparison Report
 
 Generated for test run: `20260719_182926`
 
