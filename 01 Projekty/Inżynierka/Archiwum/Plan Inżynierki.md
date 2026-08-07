@@ -27,9 +27,4 @@
 - **Cel:** Wykazać spadek zużycia CPU (dla urządzeń IoT) kosztem bezpieczeństwa.
     
 
-####  Scenariusz 4: Security (Strict Policies)
-
-- **Konfiguracja:** Polityka `STRICT` (blokada wszystkiego, pozwolenie tylko na konkretną ścieżkę).
-    
-- **Cel:** Zmierzenie narzutu sprawdzania reguł dostępu.
-    
+####  Scenariusz 4: Post Quantum
