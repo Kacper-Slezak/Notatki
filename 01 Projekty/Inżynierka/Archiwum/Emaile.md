@@ -262,3 +262,118 @@ W dniu 26.02.2026 o 10:13, Kacper Ślęzak pisze:
 > Z poważaniem,  
 > Kacper Ślęzak  
 > 422843
+
+Super, zmieniam zgłoszenie z wersji early draft na final - ze zgłoszaniem poczekamy może z miesiąc ale temat mamy zamknięty. Może tylko proszę ustawić sobie na poczatek maja - "sprawdzić czy moja praca jest formalnie zgłoszona"  
+  
+Dokumentacja - super, nic nie poprawiać, proszę działać tak dalej :) Czy nie trzeba będzie czegoś powtórzyć - nie specjalnie da się to zagwarantować.  
+  
+Język - zachęcałbym do j. angielskiego - wszystko co istotne dzieje się w tym języku, chyba, że bardzo niekomfortowo będzie się Pan czuł... Z mojej strony patrzę na prace w języku angielskim: "czy język czytelny, komunikacja jednoznaczna? TAK - bardzo dobrze, drobne usterki, stylistyczne nie szkodzą!"  
+  
+Pozdrawiam serdecznie, spokojnych Świąt także z mojej strony!  
+AL  
+  
+  
+  
+W dniu 02.04.2026 o 21:38, Kacper Ślęzak pisze:
+
+> Panie Doktorze,  
+>   
+> Dziękuję za wiadomość oraz przygotowanie bezpiecznego zgłoszenia tematu pracy. Po analizie uważam, że taka forma jest bardzo korzystna, ponieważ daje dużą elastyczność w doborze scenariuszy badawczych.  
+>   
+> Chciałbym zasięgnąć Pana rady w dwóch kwestiach:  
+>   
+>      1.Język pracy: Zastanawiam się nad pisaniem pracy w języku angielskim. Przemawia za tym fakt, że cała dokumentacja techniczna oraz literatura są dostępne głównie w tym języku. Z drugiej strony, pisanie w języku ojczystym daje większą swobodę. Czy z Pana perspektywy praca w którymś języku jest preferowana?  
+>   
+>     2.Metodyka dokumentowania badań: Przeprowadziłem już pierwsze wstępne testy.  Dokumentuję je na bieżąco, chciałbym zapytać, co mógłbym poprawić w obecnym sposobie rejestracji wyników, aby uniknąć konieczności powtarzania testów na późniejszym etapie pisania pracy? Tutaj załączam link do repozytorium z dokumentacją: [https://github.com/](https://github.com/) Kacper-Slezak/Praca-In-ynierska.git  
+>   
+>   
+> Korzystając z okazji, życzę Panu radosnych i spokojnych Świąt Wielkanocnych.  
+>   
+> Z poważaniem,  
+> Kacper Ślęzak  
+> Nr albumu: 422843  
+>   
+>   
+>   
+> W dniu 26.03.2026 13:49, Artur Lasoń napisał(a):
+> 
+> > Panie Kacprze,  
+> > Zaglądnąłem do notatek o Panu i doszedłem do wniosku, że Pan w  
+> > zasadzie już realizuje swoją pracę :) Przygotowałem zatem >bezpieczne<  
+> > zgłoszenie Pana pracy - różne rzeczy można zrobić by wypełnić to co  
+> > obiecuje proponowany tytuł i opis.  
+> >   
+> > Proszę spokojnie przeczytać i zastanowić się, czy takie zgłoszenie nie  
+> > byłoby dla nas wygodne. Możemy zrobić to albo tamto - czyli to co się  
+> > uda zrobić :)  
+> >   
+> > Pozdrawiam serdecznie,  
+> > AL  
+> >   
+> >   
+> > W dniu 04.03.2026 o 08:28, Kacper Ślęzak pisze:
+> > 
+> > > Panie Doktorze,  
+> > > Zgodnie z Pana sugestiami, do testów użyję narzędzia K6, postawię Istio w profilu minimal i zostanę przy prostej architekturze Client- Server.  
+> > >   
+> > > Odpowiadając na Pana pytanie o różnicowanie konfiguracji Envoya – obecnie mocno walczę z wymuszeniem komunikacji po mTLS w wersji 1.2 i narzuceniem słabszych szyfrów. Idzie to dość opornie ze względu na wbudowane mechanizmy bezpieczeństwa Istio. Podjąłem się między innymi wstrzykiwania konfiguracji przez EnvoyFilter, aby zmniejszyć mtls do 1.2 . Przy którym Zderzyłem się z odrzucaniem połączeń ze względu na niezgodność wymuszanego szyfru z domyślnymi certyfikatami RSA generowanymi przez Istio.  
+> > >   
+> > > Narazie będę próbować skonfigurować Envoy Filter. Będę informować o dalszych postępach.  
+> > >   
+> > > Pozdrawiam,  
+> > > Kacper Ślęzak  
+> > > 422843  
+> > >   
+> > > W dniu 26.02.2026 11:38, Artur Lasoń napisał(a):
+> > > 
+> > > > Panie Kacprze,  
+> > > > Mocno idzie Pan do przodu - super!  
+> > > >   
+> > > > ad.1 Nigdy nie używaliśmy fortio. Do tej pory większość prac robimy na  
+> > > > K6 - jest fajnie zintegrowane z Prometheusem i Grfaną. Ogarnięcie tych  
+> > > > narzędzi jest też fajne samo w sobie - są to czeste rozwiązania  
+> > > > produkcyjne. fortio - fajnie byłoby zobaczyć czym to jest, poznać nowe  
+> > > > narzędzie (z mojego punktu widzenia). Decyzję zostawiam Panu.  
+> > > >   
+> > > > ad.2 Idealne dwa scenariusze - różna granularność - może różne wyniki.  
+> > > > Róbmy obydwa przypadki.  
+> > > >   
+> > > > ad.3 Zdecydowanie zacznijmy od minimal, potem możemy się zastanawiać,  
+> > > > dokładać zadania logowania ruchu, na razie minimal (ewentualnie  
+> > > > default).  
+> > > >   
+> > > > ad.4 Na razie klient-server. Wprowadzenie aplikacji jest fajne,  
+> > > > pokazuje realny scenariusz ale może mieć wpływ na wyniki. Skąd  
+> > > > będziemy wiedzieć czy badamy wydajność klastra czy wydajność  
+> > > > aplikacji? Pierwsze wyniki zobaczmy w najprostszym scenariuszu.  
+> > > >   
+> > > > Jak Panu idzie różnicowanie konfiguracji Envoya, coś udało się z  
+> > > > szyframi, z autoryzacją?  
+> > > >   
+> > > > PZDR  
+> > > > AL  
+> > > >   
+> > > > W dniu 26.02.2026 o 10:13, Kacper Ślęzak pisze:
+> > > > 
+> > > > > Panie Doktorze,  
+> > > > >   
+> > > > >      Zwracam się do Pana po dłuższej przerwie. Chciałbym przeprosić za brak kontaktu w ostatnich miesiącach. Ze względu na obciążenie sesją nie miałem wielu postępów w pracy. Czas ten poświęciłem na uzupełnienie wiedzy zakupiłem i realizuje kurs Kubernetesa oraz Istio. Chciałem mieć pewność, że przystępując do badań, będę dobrze rozumiał jak wszystko dokładnie działa.  
+> > > > >   
+> > > > >      Jeśli chodzi o bezpośrednie postępy w pracy. Wstępnie skonfigurowałem klaster (opartego na k3d) i przetestowałem narzędzia do generowania ruchu. Zanim jednak przystąpię do pomiarów, chciałbym skonsultować z Panem cztery kwestie:  
+> > > > >   
+> > > > > 1. Wybór narzędzia testowego:  
+> > > > >      Do obciążania klastra i zbierania wyników narazie próbowałem korzystac z narzędzia fortio. Czy z Pana perspektywy to dobry wybór, czy preferuje Pan inne rozwiązanie?  
+> > > > >   
+> > > > > 2. Charakterystyka ruchu:  
+> > > > >      Zastanawiam się, jaki rodzaj ruchu najlepiej uwydatni narzut wprowadzany przez algorytmy kryptograficzne Envoy'a. Czy powinniśmy skupić się na dużej liczbie zapytań o minimalnym rozmiarze , czy na mniejszej liczbie zapytań, ale z dużym ładunkiem danych? A może warto uwzględnić oba te scenariusze w pracy?  
+> > > > >   
+> > > > > 3. Profil instalacji Istio:  
+> > > > >      W tutorialach powszechny jest profil demo, który ma włączone śledzenie (tracing) zapytań i bogate logowanie. Jednak jest on odradzany w testach wydajnościowych. Zastanawiam się natomiast nad wyborem między profilem default a minimal - ten pierwszy instaluje dodatkowo bramy wejściowe/wyjściowe (Ingress/Egress), podczas gdy drugi dostarcza absolutne minimum. Który z nich uważa Pan za lepszy z punktu widzenia poprawności naszych badań?  
+> > > > >   
+> > > > > 4. Struktura aplikacji testowej:  
+> > > > >      W moich wstępnych próbach testowałem prosty układ Client- Server. Jednak wydaje mi się oczywistę, że to zbyt porstę rozwiązanie. Rozważałem wykorzystanie standardowej aplikacji mikroserwisowej Bookinfo, gdzie jedno zapytanie przechodzi przez kilka usług. Jest to aplikacja dostarczana przez Istio.  
+> > > > >   
+> > > > > Będę bardzo wdzięczny za Pana opinię i wskazówki.  
+> > > > > Z poważaniem,  
+> > > > > Kacper Ślęzak  
+> > > > > 422843
