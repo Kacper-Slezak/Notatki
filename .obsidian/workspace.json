@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Auta/002 Segmenty samochodów.md",
-                "mode": "preview",
+                "file": "03 Baza Wiedzy/Auta/Bez nazwy.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002 Segmenty samochodów"
+              "title": "Bez nazwy"
             }
           }
         ]
@@ -207,8 +207,12 @@
   },
   "active": "b0e6b1dfc6e2800b",
   "lastOpenFiles": [
-    "03 Baza Wiedzy/Auta/001 Typy Nadwozia.md",
+    "03 Baza Wiedzy/Auta/005 Dodatki i udogodnienia.md",
+    "03 Baza Wiedzy/Auta/Bez nazwy.md",
+    "03 Baza Wiedzy/Auta/004 Skrzynie biegów.md",
+    "03 Baza Wiedzy/Auta/003 Rodzaje silników.md",
     "03 Baza Wiedzy/Auta/002 Segmenty samochodów.md",
+    "03 Baza Wiedzy/Auta/001 Typy Nadwozia.md",
     "01 Projekty/Inżynierka/Archiwum/Emaile.md",
     "03 Baza Wiedzy/Auta",
     "01 Projekty/Inżynierka/Podsumowanie.md",
@@ -233,10 +237,6 @@
     "01 Projekty/SOTP/99 Zasoby/Biznes notatka.md",
     "01 Projekty/SOTP/99 Zasoby/Projekt 2.md",
     "01 Projekty/SOTP/99 Zasoby/Roadmap.md",
-    "01 Projekty/SOTP/99 Zasoby/SOTP Master Document v3.5.md",
-    "01 Projekty/SOTP/00 SOTP Dashboard.md",
-    "01 Projekty/Ops Automatization/Automatyzacja.md",
-    "01 Projekty/Inżynierka/Archiwum/Draft.md",
     "01 Projekty/Inżynierka/Archiwum",
     "06 Codzienne Notatki/2026/07 Lipiec",
     "03 Baza Wiedzy/Nauka/DevOps",
