@@ -6,5 +6,6 @@
   "obsidian-tracker",
   "periodic-notes",
   "quickadd",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]

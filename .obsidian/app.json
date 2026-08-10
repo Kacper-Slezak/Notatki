@@ -2,5 +2,6 @@
   "spellcheck": false,
   "attachmentFolderPath": "04 Archiwum/Zdjęcia",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }
