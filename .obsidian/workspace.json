@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Auta/Cloude/00_Indeks_Bazy_Wiedzy.md",
+                "file": "03 Baza Wiedzy/Auta/Cloude/Modele/Mazda_6_III_2.2SkyActivD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00_Indeks_Bazy_Wiedzy"
+              "title": "Mazda_6_III_2.2SkyActivD"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "d2816685ccdfacd1",
   "lastOpenFiles": [
+    "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Octavia_III_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Mazda_6_III_2.2SkyActivD.md",
     "03 Baza Wiedzy/Auta/Cloude/00_Indeks_Bazy_Wiedzy.md",
     "03 Baza Wiedzy/Auta/Bez nazwy.md",
@@ -240,7 +241,6 @@
     "03 Baza Wiedzy/Auta/Cloude/Modele/Volvo_S60_V60_D3_D4.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Toyota_Avensis_T27_2.0D4D.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Superb_II_III_2.0TDI.md",
-    "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Octavia_III_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Peugeot_508_I_2.0HDi_BlueHDi.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Opel_Insignia_A_2.0CDTI.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Kia_Optima_Hyundai_i40_CRDi.md",
