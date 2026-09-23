@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Baza Wiedzy/Auta/Cloude/Modele/Mazda_6_III_2.2SkyActivD.md",
+                "file": "01 Projekty/Agent ID/Agent ID.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mazda_6_III_2.2SkyActivD"
+              "title": "Agent ID"
             }
           }
         ],
@@ -232,8 +232,10 @@
   },
   "active": "d2816685ccdfacd1",
   "lastOpenFiles": [
-    "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Octavia_III_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Mazda_6_III_2.2SkyActivD.md",
+    "01 Projekty/Agent ID/Agent ID.md",
+    "01 Projekty/Agent ID",
+    "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Octavia_III_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/00_Indeks_Bazy_Wiedzy.md",
     "03 Baza Wiedzy/Auta/Bez nazwy.md",
     "03 Baza Wiedzy/Auta/Cloude",
@@ -260,14 +262,12 @@
     "02 Obszary/00_Indeks_Bazy_Wiedzy.md",
     "03 Baza Wiedzy/Auta/005 Dodatki i udogodnienia.md",
     "03 Baza Wiedzy/Auta/004 Skrzynie biegów.md",
-    "03 Baza Wiedzy/Auta/003 Rodzaje silników.md",
     "03 Baza Wiedzy/Auta",
     "01 Projekty/Buba Kariera/Certyfikaty",
     "01 Projekty/Buba Kariera",
     "03 Baza Wiedzy/Podcasty",
     "01 Projekty/Inżynierka/Archiwum",
     "06 Codzienne Notatki/2026/07 Lipiec",
-    "03 Baza Wiedzy/Nauka/DevOps",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
