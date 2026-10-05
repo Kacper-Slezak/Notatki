@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0e6b1dfc6e2800b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Baza Wiedzy/Auta/Bez nazwy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bez nazwy"
-            }
-          },
-          {
             "id": "d2816685ccdfacd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projekty/Inżynierka/Archiwum/Emaile.md",
+                "file": "01 Projekty/Inżynierka/Dalsze kroki po spotkaniu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emaile"
+              "title": "Dalsze kroki po spotkaniu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,12 +207,17 @@
   },
   "active": "d2816685ccdfacd1",
   "lastOpenFiles": [
+    "03 Baza Wiedzy/Auta/Bez nazwy.md",
+    "01 Projekty/Inżynierka/Dalsze kroki po spotkaniu.md",
+    "01 Projekty/Inżynierka/Podsumowanie.md",
+    "01 Projekty/Inżynierka/Plan testów w K6.md",
+    "01 Projekty/Inżynierka/Performance Comparison Report.md",
+    "01 Projekty/Inżynierka/Archiwum/Emaile.md",
     "01 Projekty/Agent ID/Agent ID.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Mazda_6_III_2.2SkyActivD.md",
     "01 Projekty/Agent ID",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Skoda_Octavia_III_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/00_Indeks_Bazy_Wiedzy.md",
-    "03 Baza Wiedzy/Auta/Bez nazwy.md",
     "03 Baza Wiedzy/Auta/Cloude",
     "03 Baza Wiedzy/Auta/Cloude/Modele/VW_Passat_B8_2.0TDI.md",
     "03 Baza Wiedzy/Auta/Cloude/Modele/Volvo_S60_V60_D3_D4.md",
@@ -256,12 +236,7 @@
     "02 Obszary/Modele/Peugeot_508_I_2.0HDi_BlueHDi.md",
     "02 Obszary/Modele/Opel_Insignia_A_2.0CDTI.md",
     "02 Obszary/Modele/Mazda_6_III_2.2SkyActivD.md",
-    "02 Obszary/Modele/Kia_Optima_Hyundai_i40_CRDi.md",
-    "02 Obszary/Modele/Ford_Mondeo_MK5_2.0TDCi.md",
     "02 Obszary/Modele",
-    "02 Obszary/00_Indeks_Bazy_Wiedzy.md",
-    "03 Baza Wiedzy/Auta/005 Dodatki i udogodnienia.md",
-    "03 Baza Wiedzy/Auta/004 Skrzynie biegów.md",
     "03 Baza Wiedzy/Auta",
     "01 Projekty/Buba Kariera/Certyfikaty",
     "01 Projekty/Buba Kariera",
