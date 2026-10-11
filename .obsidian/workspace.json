@@ -11,10 +11,24 @@
             "id": "01401534e9421953",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Projekty/BTS GO/1 week.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "1 week"
             }
           }
         ]
@@ -193,6 +207,8 @@
   },
   "active": "01401534e9421953",
   "lastOpenFiles": [
+    "01 Projekty/BTS GO/1 week.md",
+    "01 Projekty/BTS GO",
     "Wakacje Ticket.md",
     "01 Projekty/SCS/Materiały.md",
     "01 Projekty/Inżynierka/Dalsze kroki po spotkaniu.md",
@@ -222,13 +238,11 @@
     "02 Obszary/Modele/Toyota_Avensis_T27_2.0D4D.md",
     "02 Obszary/Modele/Skoda_Superb_II_III_2.0TDI.md",
     "02 Obszary/Modele/Skoda_Octavia_III_2.0TDI.md",
-    "02 Obszary/Modele/Peugeot_508_I_2.0HDi_BlueHDi.md",
     "02 Obszary/Modele",
     "03 Baza Wiedzy/Auta",
     "01 Projekty/Buba Kariera/Certyfikaty",
     "01 Projekty/Buba Kariera",
     "03 Baza Wiedzy/Podcasty",
-    "01 Projekty/Inżynierka/Archiwum",
     "04 Archiwum/Zdjęcia/Pasted image 20260126122315.png",
     "04 Archiwum/Zdjęcia/mermaid-drawing.png",
     "04 Archiwum/Zdjęcia/Pasted image 20251125110227.png",
